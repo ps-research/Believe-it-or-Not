@@ -1,0 +1,2377 @@
+[
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the landmark 2016 study describing the synthesis of the minimal bacterial genome JCVI-syn3.0, what is the total number of genes (comprising both protein-coding and RNA genes) included in the final 531,560 base pair sequence?\n\nA) 438\nB) 473\nC) 492\nD) 525"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "In the landmark 2016 study describing the synthesis of the minimal bacterial genome JCVI-syn3.0, what is the total number of genes (comprising both protein-coding and RNA genes) included in the final 531,560 base pair sequence?",
+    "explanation": "The synthetic organism JCVI-syn3.0 contains a minimal genome of 473 genes, consisting of 438 protein-coding genes and 35 genes encoding RNAs. The distractor 525 refers to the gene count of the intermediate JCVI-syn2.0, and 492 refers to the later JCVI-syn3A version.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On what specific date was the Treaty of Labiau signed, in which King Charles X Gustav of Sweden recognized the full sovereignty of Frederick William, Elector of Brandenburg, over the Duchy of Prussia?\n\nA) January 17, 1656\nB) November 20, 1656\nC) September 19, 1657\nD) May 3, 1660"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On what specific date was the Treaty of Labiau signed, in which King Charles X Gustav of Sweden recognized the full sovereignty of Frederick William, Elector of Brandenburg, over the Duchy of Prussia?",
+    "explanation": "The Treaty of Labiau was signed on November 20, 1656, between the Swedish Empire and Brandenburg-Prussia, granting the 'Great Elector' full sovereignty over Prussia, which had previously been a Swedish and Polish fief.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: The bacteriophage phi X 174 was the first DNA-based genome to be fully sequenced by Frederick Sanger in 1977; how many nucleotides comprise its circular, single-stranded DNA genome?\n\nA) 5,243\nB) 5,386\nC) 5,577\nD) 6,407"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "The bacteriophage phi X 174 was the first DNA-based genome to be fully sequenced by Frederick Sanger in 1977; how many nucleotides comprise its circular, single-stranded DNA genome?",
+    "explanation": "The genome of the bacteriophage phi X 174 consists of exactly 5,386 nucleotides. The other options are lengths of other viral genomes (5,243 for SV40, 5,577 for G4, and 6,407 for M13).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific territory belonging to the Emirate of Sharjah is a counter-enclave situated entirely within the Omani territory of Madha?\n\nA) Dibba Al-Hisn\nB) Nahwa\nC) Hatta\nD) Manama"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which specific territory belonging to the Emirate of Sharjah is a counter-enclave situated entirely within the Omani territory of Madha?",
+    "explanation": "Nahwa is an Emirati village and exclave of the Sharjah Emirate located entirely within the Omani enclave of Madha, making it a rare second-order enclave (a territory of country A inside a territory of country B, which is inside country A).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific island is separated from Cape Lopatka at the southernmost tip of the Kamchatka Peninsula by the First Kuril Strait?\n\nA) Paramushir\nB) Shumshu\nC) Onekotan\nD) Shiashkotan"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which specific island is separated from Cape Lopatka at the southernmost tip of the Kamchatka Peninsula by the First Kuril Strait?",
+    "explanation": "Shumshu is the northernmost island of the Kuril Islands chain, situated just 11 kilometers south of Russia's Kamchatka Peninsula across the First Kuril Strait.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the fifth movement of Hector Berlioz's 'Symphonie fantastique', which specific instrument was scored in the 1830 manuscript to play the 'Dies irae' plainchant theme in unison with the ophicleides?\n\nA) Buccin\nB) Serpent\nC) Bombardon\nD) Saxtuba"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In the fifth movement of Hector Berlioz's 'Symphonie fantastique', which specific instrument was scored in the 1830 manuscript to play the 'Dies irae' plainchant theme in unison with the ophicleides?",
+    "explanation": "The original 1830 autograph score of Berlioz's 'Symphonie fantastique' specifies two serpents to perform the 'Dies irae' alongside two ophicleides; the serpents were later removed from the 1845 published edition in favor of additional ophicleides, which were themselves eventually replaced by tubas.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On which specific date was the Treaty of Shimoda signed, establishing the first formal diplomatic relations and defining the border between the Russian Empire and the Tokugawa Shogunate?\n\nA) March 31, 1854\nB) February 7, 1855\nC) October 14, 1854\nD) July 29, 1858"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On which specific date was the Treaty of Shimoda signed, establishing the first formal diplomatic relations and defining the border between the Russian Empire and the Tokugawa Shogunate?",
+    "explanation": "The Treaty of Shimoda was signed on February 7, 1855, by Russian Admiral Yevfimy Putyatin and Japanese officials, establishing the border between the two nations in the Kuril Islands between Iturup and Urup.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which Swedish surgeon is credited with performing the world's first clinical implantation of an internal cardiac pacemaker on October 8, 1958, at the Karolinska Institute?\n\nA) Rune Elmqvist\nB) \u00c5ke Senning\nC) Christiaan Barnard\nD) Clarence Walton Lillehei"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which Swedish surgeon is credited with performing the world's first clinical implantation of an internal cardiac pacemaker on October 8, 1958, at the Karolinska Institute?",
+    "explanation": "The surgery was performed by \u00c5ke Senning using a rechargeable device designed by physician-engineer Rune Elmqvist. The patient, Arne Larsson, went on to receive 26 different pacemakers over the course of his life.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On what specific date was the Treaty of Butre signed, establishing a Dutch protectorate over the Ahanta region of the Gold Coast?\n\nA) October 10, 1654\nB) August 27, 1656\nC) June 14, 1652\nD) September 15, 1658"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On what specific date was the Treaty of Butre signed, establishing a Dutch protectorate over the Ahanta region of the Gold Coast?",
+    "explanation": "The Treaty of Butre was signed on August 27, 1656, between the Dutch West India Company and the Ahanta people at Fort Batenstein in present-day Ghana, defining the political relationship between the two parties for over two centuries.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In mammalian RNA editing, which specific catalytic enzyme is responsible for the site-specific C-to-U deamination at position 6666 of the apolipoprotein B (apoB) mRNA, resulting in the production of the truncated apoB-48 isoform?\n\nA) APOBEC2\nB) APOBEC1\nC) APOBEC3G\nD) AID"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In mammalian RNA editing, which specific catalytic enzyme is responsible for the site-specific C-to-U deamination at position 6666 of the apolipoprotein B (apoB) mRNA, resulting in the production of the truncated apoB-48 isoform?",
+    "explanation": "APOBEC1 is the enzyme that targets the apolipoprotein B mRNA in the intestine to create a stop codon (UAA from CAA); APOBEC2 lacks known deaminase activity, while APOBEC3G and AID target DNA for viral defense and antibody diversification respectively.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the molecular machinery of macroautophagy, which specific protein functions as the E2-like conjugating enzyme responsible for the covalent attachment of Atg8 (LC3) to phosphatidylethanolamine?\n\nA) Atg7\nB) Atg3\nC) Atg10\nD) Atg16L1"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the molecular machinery of macroautophagy, which specific protein functions as the E2-like conjugating enzyme responsible for the covalent attachment of Atg8 (LC3) to phosphatidylethanolamine?",
+    "explanation": "Atg3 acts as the E2-like enzyme that conjugates Atg8/LC3 to the lipid phosphatidylethanolamine; Atg7 acts as the E1-like enzyme for the system, while Atg10 serves as the E2-like enzyme for the distinct Atg12-Atg5 conjugation pathway.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In neuropathology, what is the primary protein constituent of the paracrystalline, eosinophilic intracellular inclusions known as Hirano bodies?\n\nA) Alpha-synuclein\nB) F-actin\nC) Amyloid-beta\nD) TDP-43"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In neuropathology, what is the primary protein constituent of the paracrystalline, eosinophilic intracellular inclusions known as Hirano bodies?",
+    "explanation": "Hirano bodies are paracrystalline aggregates found primarily in the pyramidal cells of the hippocampal CA1 sector; they are composed predominantly of F-actin and associated actin-binding proteins like cofilin.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: As of 2024, which cave system is recognized as the deepest explored cave on Earth, reaching a total measured depth of 2,212 meters (7,257 feet) below its entrance?\n\nA) Krubera-Voronja\nB) Veryovkina\nC) Sarma\nD) Snezhnaya"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "As of 2024, which cave system is recognized as the deepest explored cave on Earth, reaching a total measured depth of 2,212 meters (7,257 feet) below its entrance?",
+    "explanation": "Veryovkina Cave, located in the Arabika Massif of the Caucasus Mountains, became the deepest known cave in 2017 when explorers reached a depth of 2,212 meters, surpassing the previous 2,197-meter record held by Krubera-Voronja.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which surgeon performed the world's first human-to-human lung transplant in June 1963 at the University of Mississippi Medical Center?\n\nA) Christiaan Barnard\nB) James Hardy\nC) Thomas Starzl\nD) Joseph Murray"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which surgeon performed the world's first human-to-human lung transplant in June 1963 at the University of Mississippi Medical Center?",
+    "explanation": "Dr. James Hardy performed the first human lung transplant in 1963, four years before the first heart transplant by Christiaan Barnard (1967). While Joseph Murray performed the first kidney transplant in 1954 and Thomas Starzl attempted the first liver transplant in 1963, Hardy's procedure was the first instance for a lung.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the study of Indo-European historical linguistics, Wackernagel's Law describes the specific syntactic tendency for which class of linguistic elements to occupy the second position (P2) of a clause?\n\nA) Finite verbs\nB) Enclitics\nC) Nasal infixes\nD) Thematic vowels"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In the study of Indo-European historical linguistics, Wackernagel's Law describes the specific syntactic tendency for which class of linguistic elements to occupy the second position (P2) of a clause?",
+    "explanation": "Formulated by Jacob Wackernagel in 1892, Wackernagel's Law states that in Proto-Indo-European and many of its early daughter languages, unstressed clitics (specifically enclitics) were positioned after the first stressed word or phrase of a sentence.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific radioactive nuclide holds the record for the longest experimentally confirmed half-life, with a value measured at approximately 2.2 \u00d7 10^24 years?\n\nA) Bismuth-209\nB) Tellurium-128\nC) Xenon-124\nD) Barium-130"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "Which specific radioactive nuclide holds the record for the longest experimentally confirmed half-life, with a value measured at approximately 2.2 \u00d7 10^24 years?",
+    "explanation": "Tellurium-128 has the longest known half-life of any radioactive isotope, decaying via double beta decay into Xenon-128 with a half-life approximately 160 trillion times the age of the universe, surpassing other long-lived nuclides like Xenon-124 (1.8 \u00d7 10^22 years) and Bismuth-209 (1.9 \u00d7 10^19 years).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the biosynthesis of alpha-amidated neuropeptides, which specific enzyme domain catalyzes the copper- and ascorbate-dependent conversion of a C-terminal glycine-extended precursor into a peptidyl-alpha-hydroxyglycine intermediate?\n\nA) Peptidyl-alpha-hydroxyglycine alpha-amidating lyase (PAL)\nB) Peptidylglycine alpha-hydroxylating monooxygenase (PHM)\nC) Glutaminyl-peptide cyclotransferase (QPCT)\nD) Carboxypeptidase E (CPE)"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the biosynthesis of alpha-amidated neuropeptides, which specific enzyme domain catalyzes the copper- and ascorbate-dependent conversion of a C-terminal glycine-extended precursor into a peptidyl-alpha-hydroxyglycine intermediate?",
+    "explanation": "Peptidylglycine alpha-amidating monooxygenase (PAM) is a bifunctional enzyme; its PHM domain catalyzes the first step (hydroxylation of the C-terminal glycine), while its PAL domain catalyzes the second step (cleavage of the N-C bond to produce the amidated peptide and glyoxylate).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific bathymetric feature was identified by the 2019 Five Deeps Expedition as the deepest point in the Southern Ocean, located within the South Sandwich Trench at a depth of approximately 7,433 meters?\n\nA) Meteor Deep\nB) Factorian Deep\nC) Milwaukee Deep\nD) Molloy Deep"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "Which specific bathymetric feature was identified by the 2019 Five Deeps Expedition as the deepest point in the Southern Ocean, located within the South Sandwich Trench at a depth of approximately 7,433 meters?",
+    "explanation": "The Factorian Deep is the deepest point of the Southern Ocean (7,433m). It was identified and named during the Five Deeps Expedition in 2019, surpassing the previously cited record holder for the trench, Meteor Deep (7,100m).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the field of Indo-European linguistics and Anatolian studies, which specific phonological principle posits that Proto-Indo-European voiceless stops are systematically represented as geminate consonants in Hittite cuneiform, while voiced stops are written as singletons?\n\nA) Verner's Law\nB) Sturtevant's Law\nC) Sievers' Law\nD) Grassmann's Law"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In the field of Indo-European linguistics and Anatolian studies, which specific phonological principle posits that Proto-Indo-European voiceless stops are systematically represented as geminate consonants in Hittite cuneiform, while voiced stops are written as singletons?",
+    "explanation": "Sturtevant's Law, formulated by Edgar H. Sturtevant, identifies the orthographic correlation in Hittite where original Proto-Indo-European voiceless stops are written with double signs, whereas voiced and voiced-aspirated stops are written with single signs.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the mammalian Hippo signaling pathway, which specific serine residue of the transcriptional co-activator YAP1 is phosphorylated by LATS1/2 kinases to promote its interaction with 14-3-3 proteins and subsequent cytoplasmic sequestration?\n\nA) Serine 94\nB) Serine 127\nC) Serine 381\nD) Serine 397"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the mammalian Hippo signaling pathway, which specific serine residue of the transcriptional co-activator YAP1 is phosphorylated by LATS1/2 kinases to promote its interaction with 14-3-3 proteins and subsequent cytoplasmic sequestration?",
+    "explanation": "LATS1/2 kinases phosphorylate YAP1 at Serine 127, which creates a consensus binding site for 14-3-3 proteins; this interaction leads to the nuclear export and cytoplasmic retention of YAP1, thereby inhibiting its transcriptional activity.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: As of mid-2024, which specific eukaryotic organism is recognized as holding the record for the largest known genome, possessing a haploid 1C-value of approximately 160.45 gigabase pairs (Gbp)?\n\nA) Paris japonica\nB) Tmesipteris oblanceolata\nC) Protopterus aethiopicus\nD) Psilotum nudum"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "As of mid-2024, which specific eukaryotic organism is recognized as holding the record for the largest known genome, possessing a haploid 1C-value of approximately 160.45 gigabase pairs (Gbp)?",
+    "explanation": "Research published in 2024 identified the New Caledonian fork fern Tmesipteris oblanceolata as the record holder with a genome of 160.45 Gbp, exceeding the 148.8 Gbp genome of the previous record holder, Paris japonica.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which surgeon performed the world's first human-to-human lung transplant in 1963 at the University of Mississippi Medical Center?\n\nA) Christiaan Barnard\nB) Thomas Starzl\nC) James Hardy\nD) Joseph Murray"
+      }
+    ],
+    "answer": "C",
+    "domain": "specific_people",
+    "question_text": "Which surgeon performed the world's first human-to-human lung transplant in 1963 at the University of Mississippi Medical Center?",
+    "explanation": "Dr. James Hardy performed the first human lung transplant on June 11, 1963; he is also noted for performing the first heart xenotransplant (using a chimpanzee heart) in 1964.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In quantified modal logic, the validity of the Barcan formula (typically expressed as the schema \u2200x\u25a1\u03c6 \u2192 \u25a1\u2200x\u03c6) corresponds to which specific structural property of a Kripke frame with varying domains?\n\nA) Monotonic (cumulative) domains\nB) Anti-monotonic (decreasing) domains\nC) Euclidean accessibility relations\nD) Serial accessibility relations"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In quantified modal logic, the validity of the Barcan formula (typically expressed as the schema \u2200x\u25a1\u03c6 \u2192 \u25a1\u2200x\u03c6) corresponds to which specific structural property of a Kripke frame with varying domains?",
+    "explanation": "In Kripke semantics, the Barcan formula is valid if and only if the domains of possible worlds are anti-monotonic (or non-increasing), meaning that if world v is accessible from world w, the domain of v must be a subset of the domain of w.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the architectural description provided in Jorge Luis Borges' short story 'The Library of Babel', exactly how many books are contained within a single hexagonal gallery?\n\nA) 480\nB) 640\nC) 800\nD) 960"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In the architectural description provided in Jorge Luis Borges' short story 'The Library of Babel', exactly how many books are contained within a single hexagonal gallery?",
+    "explanation": "Borges' narrator specifies that each hexagon has twenty shelves total (five shelves on each of the four walls that are not openings), with each shelf holding thirty-two books, totaling 640 books per gallery.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: According to the bathymetric findings of the 2019 Five Deeps Expedition and subsequent GEBCO mapping, what is the name of the deepest point in the Southern Ocean, located at the southern end of the South Sandwich Trench?\n\nA) Meteor Deep\nB) Factorian Deep\nC) Brownson Deep\nD) Dordrecht Deep"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "According to the bathymetric findings of the 2019 Five Deeps Expedition and subsequent GEBCO mapping, what is the name of the deepest point in the Southern Ocean, located at the southern end of the South Sandwich Trench?",
+    "explanation": "The Factorian Deep was identified in 2019 as the deepest point in the Southern Ocean (7,433.6 meters) south of the 60th parallel; the Meteor Deep is deeper but is located further north in the South Atlantic.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific strait serves as the primary maritime passage between the S\u00f5rve Peninsula of the Estonian island of Saaremaa and the Courland Peninsula of the Latvian mainland?\n\nA) Muhu Strait\nB) Irbe Strait\nC) Soela Strait\nD) Voosi Strait"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which specific strait serves as the primary maritime passage between the S\u00f5rve Peninsula of the Estonian island of Saaremaa and the Courland Peninsula of the Latvian mainland?",
+    "explanation": "The Irbe Strait (Latvian: Irbes \u0161aurums, Estonian: Kura kurk) is the strategic waterway that forms the main exit from the Gulf of Riga to the Baltic Sea, separating the southern tip of Saaremaa from the Latvian coast.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On which specific date was the Treaty of Alca\u00f1ices signed by King Denis of Portugal and King Ferdinand IV of Castile, establishing one of the oldest and most stable international borders in Europe?\n\nA) February 16, 1267\nB) September 12, 1297\nC) March 31, 1383\nD) October 31, 1411"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On which specific date was the Treaty of Alca\u00f1ices signed by King Denis of Portugal and King Ferdinand IV of Castile, establishing one of the oldest and most stable international borders in Europe?",
+    "explanation": "The Treaty of Alca\u00f1ices was signed on September 12, 1297, between the Kingdom of Portugal and the Crown of Castile, fixing the border between the two realms that remains largely unchanged to the present day.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: According to the revised Cambridge Reference Sequence (rCRS), what is the precise number of base pairs in the human mitochondrial genome?\n\nA) 15,432\nB) 16,569\nC) 17,104\nD) 18,212"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "According to the revised Cambridge Reference Sequence (rCRS), what is the precise number of base pairs in the human mitochondrial genome?",
+    "explanation": "The revised Cambridge Reference Sequence (rCRS), which is the standard reference for the human mitochondrial DNA sequence, consists of exactly 16,569 base pairs.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: According to the 2019 bathymetric findings of the Five Deeps Expedition, which specific location is recognized as the deepest point within the defined geographical boundaries of the Southern Ocean?\n\nA) Meteor Deep\nB) Factorian Deep\nC) Brownson Deep\nD) Litke Deep"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "According to the 2019 bathymetric findings of the Five Deeps Expedition, which specific location is recognized as the deepest point within the defined geographical boundaries of the Southern Ocean?",
+    "explanation": "The Factorian Deep, located at the southern end of the South Sandwich Trench (7,432 meters), is the deepest point south of the 60th parallel; while the Meteor Deep in the same trench is deeper, it lies north of the 60\u00b0S boundary in the Atlantic Ocean.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the original 1913 Ballets Russes production of Igor Stravinsky's 'The Rite of Spring' (Le Sacre du printemps), which artist was responsible for the set designs and the ethnographically-focused costume concepts?\n\nA) L\u00e9on Bakst\nB) Nicholas Roerich\nC) Alexandre Benois\nD) Mikhail Larionov"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In the original 1913 Ballets Russes production of Igor Stravinsky's 'The Rite of Spring' (Le Sacre du printemps), which artist was responsible for the set designs and the ethnographically-focused costume concepts?",
+    "explanation": "Nicholas Roerich was a painter and archaeologist who co-authored the ballet's scenario with Stravinsky and designed the sets and costumes based on his research into ancient Slavic rituals.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which Swedish physician and engineer is credited with the invention of the world's first implantable cardiac pacemaker, which was first successfully implanted into a human patient in 1958?\n\nA) \u00c5ke Senning\nB) Rune Elmqvist\nC) Wilson Greatbatch\nD) Earl Bakken"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which Swedish physician and engineer is credited with the invention of the world's first implantable cardiac pacemaker, which was first successfully implanted into a human patient in 1958?",
+    "explanation": "Rune Elmqvist designed the first implantable pacemaker, which was an epoxy-encapsulated device; it was implanted by surgeon \u00c5ke Senning into patient Arne Larsson in 1958. Wilson Greatbatch and Earl Bakken were also instrumental in pacemaker history, but Greatbatch developed a later version with a lithium battery and Bakken developed the first wearable external model.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On which specific date was the Treaty of Butre signed, establishing a formal Dutch West India Company protectorate over the Ahanta region of the Gold Coast?\n\nA) February 17, 1642\nB) August 27, 1656\nC) August 6, 1661\nD) August 29, 1637"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On which specific date was the Treaty of Butre signed, establishing a formal Dutch West India Company protectorate over the Ahanta region of the Gold Coast?",
+    "explanation": "The Treaty of Butre was signed on August 27, 1656, between the Dutch West India Company and the Ahanta leadership at Butre (present-day Ghana), establishing a long-term protectorate that lasted until 1872.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific body of water forms the narrow southern reach of the Gulf of Bahrain, separating the western shore of the Qatari peninsula from the eastern coast of Saudi Arabia?\n\nA) Khawr al Udayd\nB) Gulf of Salwa\nC) Gulf of Masirah\nD) Gulf of Aden"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which specific body of water forms the narrow southern reach of the Gulf of Bahrain, separating the western shore of the Qatari peninsula from the eastern coast of Saudi Arabia?",
+    "explanation": "The Gulf of Salwa is the southern extension of the Gulf of Bahrain, acting as a natural border between the southwestern coast of Qatar and the Saudi Arabian mainland; Khawr al Udayd is a similar inlet but located on Qatar's southeastern border.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the narrative of Vladimir Nabokov's 1962 novel 'Pale Fire', exactly how many lines did the character John Shade complete of his eponymous poem before his death?\n\nA) 998\nB) 999\nC) 1000\nD) 1001"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In the narrative of Vladimir Nabokov's 1962 novel 'Pale Fire', exactly how many lines did the character John Shade complete of his eponymous poem before his death?",
+    "explanation": "In the novel's fictional structure, John Shade is murdered by Jack Grey immediately after completing line 999; his editor Charles Kinbote notes that Shade intended line 1000 to be a repetition of line 1, which would have completed the work.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On what specific date in 1803 was the Treaty of Deogaon signed, concluding the peace agreement between the British East India Company and Raghuji Bhonsle II of Nagpur?\n\nA) September 23, 1803\nB) December 17, 1803\nC) November 1, 1803\nD) December 30, 1803"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On what specific date in 1803 was the Treaty of Deogaon signed, concluding the peace agreement between the British East India Company and Raghuji Bhonsle II of Nagpur?",
+    "explanation": "The Treaty of Deogaon was signed on December 17, 1803, following the Maratha defeat at the Battle of Argaon. This agreement forced Raghuji Bhonsle II of Nagpur to cede the province of Cuttack and territories west of the Wardha River to the British East India Company.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific French department is the only one in Metropolitan France to share a land border with both Switzerland and Italy?\n\nA) Savoie\nB) Haute-Savoie\nC) Haut-Rhin\nD) Ain"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which specific French department is the only one in Metropolitan France to share a land border with both Switzerland and Italy?",
+    "explanation": "Haute-Savoie is the only French department that borders both countries; it shares borders with the Swiss cantons of Geneva, Vaud, and Valais to the north and east, and the Italian region of Aosta Valley to the southeast.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In X-ray photoelectron spectroscopy (XPS), what is the specific term for the discrete peaks observed at higher binding energies than the core-level peak, resulting from the simultaneous excitation of a valence electron to a higher unoccupied orbital during the photoemission process?\n\nA) Auger peaks\nB) Shake-up satellites\nC) Plasmon loss peaks\nD) Multiplet splitting"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In X-ray photoelectron spectroscopy (XPS), what is the specific term for the discrete peaks observed at higher binding energies than the core-level peak, resulting from the simultaneous excitation of a valence electron to a higher unoccupied orbital during the photoemission process?",
+    "explanation": "Shake-up satellites occur when a core electron is emitted and simultaneously provides energy to excite a valence electron to a higher bound state, reducing the kinetic energy of the emitted photoelectron and thus increasing its measured binding energy.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In which specific mountain range does the Sepik River, one of the longest and most culturally significant rivers on the island of New Guinea, have its primary headwaters?\n\nA) Star Mountains\nB) Victor Emanuel Range\nC) Bismarck Range\nD) Owen Stanley Range"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "In which specific mountain range does the Sepik River, one of the longest and most culturally significant rivers on the island of New Guinea, have its primary headwaters?",
+    "explanation": "The Sepik River originates in the Victor Emanuel Range in the central highlands of Papua New Guinea. While the Star Mountains are nearby and serve as the source for the Fly River, the Sepik specifically begins its course in the Victor Emanuel sub-range.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: According to the 2017 critical edition of George Gershwin's 'An American in Paris', which specific set of concert pitches was determined to be the original intended tuning for the work's four taxi horns?\n\nA) G, A, B, and C\nB) A-flat, B-flat, high D, and low A\nC) E-flat, F, high G, and low B-flat\nD) B-flat, C, high E, and low G"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "According to the 2017 critical edition of George Gershwin's 'An American in Paris', which specific set of concert pitches was determined to be the original intended tuning for the work's four taxi horns?",
+    "explanation": "The 2017 critical edition by Mark Clague used a 1929 recording overseen by Gershwin to determine that the taxi horns were intended to be A-flat, B-flat, high D, and low A, rather than the G, A, B, and C commonly used in previous decades.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: To which composer did Constanze Mozart first formally entrust the completion of the unfinished 'Requiem in D minor' (K. 626) in December 1791, prior to the task being taken up by Franz Xaver S\u00fcssmayr?\n\nA) Franz Xaver S\u00fcssmayr\nB) Joseph von Eybler\nC) Maximilian Stadler\nD) Franz Jakob Freyst\u00e4dtler"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "To which composer did Constanze Mozart first formally entrust the completion of the unfinished 'Requiem in D minor' (K. 626) in December 1791, prior to the task being taken up by Franz Xaver S\u00fcssmayr?",
+    "explanation": "Joseph von Eybler was the first composer to receive the manuscript from Constanze Mozart; he worked on the orchestration of the 'Dies irae' through the 'Confutatis' before returning the score, after which it eventually passed to S\u00fcssmayr.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In molecular biology, what is the exact number of nucleotides in the complete, circular single-stranded DNA genome of the bacteriophage \u03c6X174, according to the standard revised sequence?\n\nA) 3,569\nB) 5,386\nC) 5,577\nD) 6,407"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "In molecular biology, what is the exact number of nucleotides in the complete, circular single-stranded DNA genome of the bacteriophage \u03c6X174, according to the standard revised sequence?",
+    "explanation": "The bacteriophage \u03c6X174 genome was the first DNA-based genome to be sequenced; although the 1977 draft suggested 5,375 nucleotides, the definitive revised sequence contains exactly 5,386 nucleotides. The other options represent the genome sizes of the MS2 (3,569), G4 (5,577), and M13 (6,407) phages.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: The Sokh District, an exclave of Uzbekistan located within the Fergana Valley, is entirely surrounded by which administrative region of Kyrgyzstan?\n\nA) Osh Region\nB) Batken Region\nC) Jalal-Abad Region\nD) Talas Region"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "The Sokh District, an exclave of Uzbekistan located within the Fergana Valley, is entirely surrounded by which administrative region of Kyrgyzstan?",
+    "explanation": "The Sokh District is a 352-square-kilometer exclave belonging to the Fergana Region of Uzbekistan, but it is geographically situated deep within the Batken Region of Kyrgyzstan.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Located at number 39 on the Rue du Faubourg Saint-Honor\u00e9 in Paris, which historic 'h\u00f4tel particulier' serves as the official residence of the British Ambassador to France?\n\nA) H\u00f4tel de Pontalba\nB) H\u00f4tel de Charost\nC) H\u00f4tel de Beauvau\nD) H\u00f4tel de Marigny"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Located at number 39 on the Rue du Faubourg Saint-Honor\u00e9 in Paris, which historic 'h\u00f4tel particulier' serves as the official residence of the British Ambassador to France?",
+    "explanation": "The H\u00f4tel de Charost was purchased in 1814 by the Duke of Wellington from Pauline Bonaparte to serve as the permanent seat of the British Legation in France.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which Japanese engineer is credited with inventing the principle of pulse oximetry in 1974, by discovering that the ratio of pulsatile to non-pulsatile light absorption at two wavelengths could be used to measure arterial oxygen saturation?\n\nA) Susumu Nakajima\nB) Takuo Aoyagi\nC) Leland Clark\nD) Wilson Greatbatch"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which Japanese engineer is credited with inventing the principle of pulse oximetry in 1974, by discovering that the ratio of pulsatile to non-pulsatile light absorption at two wavelengths could be used to measure arterial oxygen saturation?",
+    "explanation": "Takuo Aoyagi developed the first pulse oximeter while working for Nihon Kohden in 1974. Susumu Nakajima led the team that published the first clinical application of the technology in 1975, while Leland Clark and Wilson Greatbatch invented the oxygen electrode and the implantable pacemaker, respectively.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: The headquarters of the European Central Bank (ECB), characterized by its twin-tower design integrated with the historic Grossmarkthalle, is located on which specific street in the Ostend district of Frankfurt am Main?\n\nA) Kaiserstra\u00dfe\nB) Sonnemannstra\u00dfe\nC) Mainzer Landstra\u00dfe\nD) Taunustor"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "The headquarters of the European Central Bank (ECB), characterized by its twin-tower design integrated with the historic Grossmarkthalle, is located on which specific street in the Ostend district of Frankfurt am Main?",
+    "explanation": "The European Central Bank moved its headquarters in 2014 to Sonnemannstra\u00dfe 20 in Frankfurt's Ostend district; the site formerly housed the city's wholesale market hall (Grossmarkthalle). Kaiserstra\u00dfe and Taunustor were the locations of its previous headquarters in the Eurotower.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On which exact date was the Treaty of Labiau signed, a pivotal diplomatic milestone that granted Frederick William, the 'Great Elector' of Brandenburg, full sovereignty over the Duchy of Prussia from the Swedish Empire?\n\nA) January 17, 1656\nB) November 20, 1656\nC) June 25, 1656\nD) December 6, 1656"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On which exact date was the Treaty of Labiau signed, a pivotal diplomatic milestone that granted Frederick William, the 'Great Elector' of Brandenburg, full sovereignty over the Duchy of Prussia from the Swedish Empire?",
+    "explanation": "The Treaty of Labiau was signed on November 20, 1656, elevating the Elector of Brandenburg to a sovereign status in Prussia. The distractors are other 1656 treaties in the same conflict: K\u00f6nigsberg (Jan 17), Marienburg (June 25), and Radnot (Dec 6).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the original 1607 printed libretto for Claudio Monteverdi's opera L'Orfeo, which specific ending occurs that was later replaced by an apotheosis with Apollo in the 1609 published score?\n\nA) Orfeo is transformed into a laurel tree to escape the grief of his loss\nB) Orfeo is pursued and attacked by a group of wrathful Bacchantes\nC) Orfeo is granted a second opportunity by Proserpina to retrieve Euridice\nD) Orfeo is struck dead by a thunderbolt from Jupiter for his disobedience"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In the original 1607 printed libretto for Claudio Monteverdi's opera L'Orfeo, which specific ending occurs that was later replaced by an apotheosis with Apollo in the 1609 published score?",
+    "explanation": "The 1607 libretto by Alessandro Striggio ends with Orfeo being confronted and chased by Bacchantes (Maenads), adhering to the tragic ending of the classical myth; however, the 1609 musical score features a 'lieto fine' (happy ending) where Apollo carries Orfeo to the heavens.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: As of the most recent high-resolution catalogs of the S-cluster of stars orbiting the supermassive black hole Sagittarius A*, which specific star is recorded as having the shortest orbital period?\n\nA) S62\nB) S4711\nC) S4714\nD) S2"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "As of the most recent high-resolution catalogs of the S-cluster of stars orbiting the supermassive black hole Sagittarius A*, which specific star is recorded as having the shortest orbital period?",
+    "explanation": "Discovered in 2020 by Peissker et al., S4711 has an orbital period of approximately 7.6 years, which is the shortest currently known; it surpassed the previous record of 9.9 years held by the star S62.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the production of Andrei Tarkovsky's 1979 film 'Stalker', which cinematographer shot the first version of the film on experimental Kodak 5247 stock that was subsequently destroyed in a laboratory error?\n\nA) Vadim Yusov\nB) Georgi Rerberg\nC) Alexander Knyazhinsky\nD) Sven Nykvist"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In the production of Andrei Tarkovsky's 1979 film 'Stalker', which cinematographer shot the first version of the film on experimental Kodak 5247 stock that was subsequently destroyed in a laboratory error?",
+    "explanation": "Georgi Rerberg was the original cinematographer for 'Stalker' and completed nearly a year of filming before the footage was ruined during development; Tarkovsky subsequently fired him and reshot the entire film with Alexander Knyazhinsky.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the catalytic mechanism of human carbonic anhydrase II, which specific amino acid residue functions as the primary proton shuttle, transferring a proton from the active site to the surrounding buffer to regenerate the zinc-bound hydroxide ion?\n\nA) His94\nB) His64\nC) His96\nD) His119"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the catalytic mechanism of human carbonic anhydrase II, which specific amino acid residue functions as the primary proton shuttle, transferring a proton from the active site to the surrounding buffer to regenerate the zinc-bound hydroxide ion?",
+    "explanation": "Human carbonic anhydrase II utilizes the histidine residue at position 64 to shuttle protons from the zinc-bound water molecule to the external environment, facilitating a high turnover rate; His94, His96, and His119 instead serve as the direct coordination ligands for the catalytic zinc ion.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Within the Mitochondrial Contact Site and Cristae Organizing System (MICOS), which specific subunit possesses a conserved glycine-rich motif (Gx3G) in its transmembrane domains that allows it to oligomerize and directly induce the membrane curvature required for cristae junction formation?\n\nA) MIC60\nB) MIC10\nC) MIC19\nD) MIC27"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "Within the Mitochondrial Contact Site and Cristae Organizing System (MICOS), which specific subunit possesses a conserved glycine-rich motif (Gx3G) in its transmembrane domains that allows it to oligomerize and directly induce the membrane curvature required for cristae junction formation?",
+    "explanation": "MIC10 is a critical MICOS subunit that uses its two transmembrane helices, containing Gx3G motifs, to form high-order oligomers that act as a scaffold to physically bend the inner mitochondrial membrane into the sharp curves found at cristae junctions.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In historical linguistics, specifically regarding the phonological development of Ancient Greek and Sanskrit, what is the term for the dissimilatory process where the first of two aspirated consonants within a word loses its aspiration?\n\nA) Grimm's Law\nB) Grassmann's Law\nC) Verner's Law\nD) Dahl's Law"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In historical linguistics, specifically regarding the phonological development of Ancient Greek and Sanskrit, what is the term for the dissimilatory process where the first of two aspirated consonants within a word loses its aspiration?",
+    "explanation": "Grassmann's Law describes a phonological dissimilation in Ancient Greek and Sanskrit where an aspirated stop loses its aspiration if it is followed by another aspirated stop in the subsequent syllable (e.g., PIE *bhewdh- becomes Sanskrit bodh-).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which engineer and inventor is credited with developing the first long-lasting, implantable cardiac pacemaker by successfully integrating a lithium-iodide battery as its power source in 1970?\n\nA) Earl Bakken\nB) Wilson Greatbatch\nC) Rune Elmqvist\nD) Paul Zoll"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which engineer and inventor is credited with developing the first long-lasting, implantable cardiac pacemaker by successfully integrating a lithium-iodide battery as its power source in 1970?",
+    "explanation": "Wilson Greatbatch developed the lithium-iodide cell in the early 1970s, which solved the longevity issues of earlier pacemakers like Rune Elmqvist's 1958 design, which used less reliable rechargeable batteries.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the original 1913 Ballets Russes production of Igor Stravinsky's 'Le Sacre du printemps', which artist was responsible for the scenic and costume designs and is credited with co-developing the work's scenario?\n\nA) Leon Bakst\nB) Nicholas Roerich\nC) Alexandre Benois\nD) Mikhail Larionov"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In the original 1913 Ballets Russes production of Igor Stravinsky's 'Le Sacre du printemps', which artist was responsible for the scenic and costume designs and is credited with co-developing the work's scenario?",
+    "explanation": "Nicholas Roerich, an expert in Slavic antiquity and archaeology, collaborated with Stravinsky to conceive the thematic structure of the 'Pictures of Pagan Russia' and provided the historically-informed set and costume designs for the 1913 premiere.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which Polish maritime engineer and sailor is recognized as the first woman to sail solo around the world, completing her circumnavigation on April 21, 1978?\n\nA) Naomi James\nB) Krystyna Chojnowska-Liskiewicz\nC) Kay Cottee\nD) Laura Dekker"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which Polish maritime engineer and sailor is recognized as the first woman to sail solo around the world, completing her circumnavigation on April 21, 1978?",
+    "explanation": "Krystyna Chojnowska-Liskiewicz completed her solo voyage in 1978, finishing 39 days before Naomi James, who is often incorrectly cited as the first woman to achieve the feat.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On what specific date in 1846 was the Treaty of Labuan signed, which resulted in the Sultanate of Brunei ceding the island of Labuan to the British Crown?\n\nA) May 13, 1846\nB) December 18, 1846\nC) August 22, 1846\nD) October 10, 1846"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On what specific date in 1846 was the Treaty of Labuan signed, which resulted in the Sultanate of Brunei ceding the island of Labuan to the British Crown?",
+    "explanation": "The Treaty of Labuan was signed on December 18, 1846, by Sultan Omar Ali Saifuddin II of Brunei and Captain Rodney Mundy of the HMS Iris, representing the British government.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific protein subunit within the Fanconi Anemia (FA) core complex contains the RING finger domain and serves as the catalytic E3 ubiquitin ligase responsible for the monoubiquitination of the FANCI-FANCD2 complex?\n\nA) FANCA\nB) FANCL\nC) FANCG\nD) FANCC"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "Which specific protein subunit within the Fanconi Anemia (FA) core complex contains the RING finger domain and serves as the catalytic E3 ubiquitin ligase responsible for the monoubiquitination of the FANCI-FANCD2 complex?",
+    "explanation": "FANCL is the only subunit of the Fanconi Anemia core complex that possesses a RING finger domain, enabling it to function as the E3 ligase that monoubiquitinates the FANCI-FANCD2 (ID) complex during DNA interstrand crosslink repair.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which architect was responsible for the design of the Chrysler Building in New York City, including its iconic stainless steel sunburst spire and gargoyles modeled after Chrysler radiator caps?\n\nA) Cass Gilbert\nB) William Van Alen\nC) William F. Lamb\nD) Raymond Hood"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which architect was responsible for the design of the Chrysler Building in New York City, including its iconic stainless steel sunburst spire and gargoyles modeled after Chrysler radiator caps?",
+    "explanation": "William Van Alen designed the Art Deco Chrysler Building, completed in 1930. The building is famous for its distinctive spire and decorative elements that directly referenced Chrysler automotive components, such as the eagle gargoyles modeled after 1929 radiator caps.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which structural engineer is now historically recognized as the primary designer of the Golden Gate Bridge's suspension system, despite being fired from the project in 1931 and having his name omitted from the bridge's dedication plaque by Joseph Strauss?\n\nA) Leon Moisseiff\nB) Charles Alton Ellis\nC) Irving Morrow\nD) Clifford Paine"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which structural engineer is now historically recognized as the primary designer of the Golden Gate Bridge's suspension system, despite being fired from the project in 1931 and having his name omitted from the bridge's dedication plaque by Joseph Strauss?",
+    "explanation": "Charles Alton Ellis was the principal structural designer who performed the complex mathematical calculations for the bridge; however, he was fired by Joseph Strauss and his contributions were not officially recognized until the 21st century.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: What is the exact total length, in base pairs, of the canonical prokaryotic cloning vector pBR322?\n\nA) 2,686\nB) 4,361\nC) 5,386\nD) 7,249"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "What is the exact total length, in base pairs, of the canonical prokaryotic cloning vector pBR322?",
+    "explanation": "The pBR322 plasmid, first constructed in 1977 by Francisco Bolivar and Raymond Rodriguez, is a standard reference cloning vector with a sequence length of exactly 4,361 base pairs.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: At the 1941 world premiere of Olivier Messiaen's chamber work 'Quatuor pour la fin du temps' (Quartet for the End of Time) held at the Stalag VIII-A prisoner-of-war camp, which musician performed the cello part?\n\nA) Pierre Fournier\nB) \u00c9tienne Pasquier\nC) Maurice Gendron\nD) Paul Tortelier"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "At the 1941 world premiere of Olivier Messiaen's chamber work 'Quatuor pour la fin du temps' (Quartet for the End of Time) held at the Stalag VIII-A prisoner-of-war camp, which musician performed the cello part?",
+    "explanation": "The quartet was premiered in the German prisoner-of-war camp Stalag VIII-A on January 15, 1941, featuring cellist \u00c9tienne Pasquier, clarinetist Henri Akoka, violinist Jean le Boulaire, and Messiaen on piano.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the molecular mechanism of store-operated calcium entry (SOCE), which specific cytosolic domain of the STIM1 protein is primarily responsible for the direct physical coupling to and gating of Orai1 subunits?\n\nA) SAM domain\nB) SOAR domain\nC) EF-hand motif\nD) CC1 domain"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the molecular mechanism of store-operated calcium entry (SOCE), which specific cytosolic domain of the STIM1 protein is primarily responsible for the direct physical coupling to and gating of Orai1 subunits?",
+    "explanation": "The SOAR (STIM-Orai Activating Region), also known as the CRAC-activating domain (CAD), is the minimal 100-amino acid sequence in the STIM1 C-terminus that directly binds and opens the Orai1 calcium channel.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the structural technique of isorhythm, which was prevalent in the Ars Nova period of medieval music, what is the specific term for the repeating sequence of pitches found in the tenor voice?\n\nA) Talea\nB) Color\nC) Hocket\nD) Clausula"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In the structural technique of isorhythm, which was prevalent in the Ars Nova period of medieval music, what is the specific term for the repeating sequence of pitches found in the tenor voice?",
+    "explanation": "In an isorhythmic composition, the 'color' refers to the repeating melodic sequence (pitches), while the 'talea' refers to the repeating rhythmic pattern (durations).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the Type II CRISPR-Cas9 system derived from Streptococcus pyogenes, which specific catalytic domain of the Cas9 protein is responsible for cleaving the DNA strand that is non-complementary to the guide RNA (the non-target strand)?\n\nA) HNH domain\nB) RuvC domain\nC) REC domain\nD) PI domain"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the Type II CRISPR-Cas9 system derived from Streptococcus pyogenes, which specific catalytic domain of the Cas9 protein is responsible for cleaving the DNA strand that is non-complementary to the guide RNA (the non-target strand)?",
+    "explanation": "The Cas9 endonuclease employs two distinct nuclease domains to generate a double-strand break; the HNH domain cleaves the DNA strand complementary to the crRNA, while the RuvC-like domain cleaves the non-complementary (non-target) strand.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the field of numerical analysis, what is the specific name for the phenomenon where high-degree polynomial interpolation over a set of equispaced points results in significant oscillations near the boundaries of the interval, leading to a divergence in error?\n\nA) Gibbs phenomenon\nB) Runge's phenomenon\nC) Stokes' phenomenon\nD) Wilkinson's phenomenon"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In the field of numerical analysis, what is the specific name for the phenomenon where high-degree polynomial interpolation over a set of equispaced points results in significant oscillations near the boundaries of the interval, leading to a divergence in error?",
+    "explanation": "Runge's phenomenon occurs when interpolating certain functions (like the Runge function) with high-degree polynomials at equally spaced nodes, causing the interpolation error to increase without bound near the ends of the interval.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On which specific date was the Treaty of Tartu signed between the Republic of Estonia and the Russian Soviet Federative Socialist Republic, formally ending the Estonian War of Independence and marking the first legal recognition of Estonian sovereignty?\n\nA) July 12, 1920\nB) February 2, 1920\nC) October 14, 1920\nD) August 11, 1920"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On which specific date was the Treaty of Tartu signed between the Republic of Estonia and the Russian Soviet Federative Socialist Republic, formally ending the Estonian War of Independence and marking the first legal recognition of Estonian sovereignty?",
+    "explanation": "The Treaty of Tartu between Estonia and Soviet Russia was signed on February 2, 1920. The distractors are all dates of other 1920 peace treaties signed by Soviet Russia: Lithuania (July 12), Latvia (August 11), and Finland (October 14, also known as the Treaty of Tartu).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In optical physics, which specific term refers to the longitudinal lateral displacement of a bounded electromagnetic beam along the reflecting interface during the process of total internal reflection?\n\nA) Imbert\u2013Fedorov effect\nB) Goos\u2013H\u00e4nchen effect\nC) Schoch effect\nD) Talbot effect"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In optical physics, which specific term refers to the longitudinal lateral displacement of a bounded electromagnetic beam along the reflecting interface during the process of total internal reflection?",
+    "explanation": "The Goos\u2013H\u00e4nchen effect is the longitudinal shift of a reflected beam in the plane of incidence under total internal reflection; in contrast, the Imbert\u2013Fedorov effect refers to a transverse shift, and the Schoch effect is the acoustic analog.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On which specific date in 1656 was the Treaty of Butre signed, establishing a Dutch West India Company protectorate over the Ahanta region of the Gold Coast?\n\nA) January 17, 1656\nB) August 27, 1656\nC) June 29, 1656\nD) November 20, 1656"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On which specific date in 1656 was the Treaty of Butre signed, establishing a Dutch West India Company protectorate over the Ahanta region of the Gold Coast?",
+    "explanation": "The Treaty of Butre was signed on August 27, 1656, between the Dutch West India Company and the Ahanta people in present-day Ghana, formalizing a protectorate that lasted until the Dutch possessions were sold to the British in 1872.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific isotope is currently recognized for having the longest experimentally measured half-life, approximately 2.2 \u00d7 10^24 years?\n\nA) Bismuth-209\nB) Tellurium-128\nC) Xenon-124\nD) Calcium-48"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "Which specific isotope is currently recognized for having the longest experimentally measured half-life, approximately 2.2 \u00d7 10^24 years?",
+    "explanation": "Tellurium-128 holds the record for the longest observed half-life of any radioactive isotope, decaying via double beta decay into Xenon-128 over a period approximately 160 trillion times longer than the age of the universe.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific nuclide is experimentally determined to have the longest half-life of any unstable isotope, with a value measured via geochemical methods to be approximately 2.2 \u00d7 10^24 years?\n\nA) Xenon-124\nB) Bismuth-209\nC) Tellurium-128\nD) Selenium-82"
+      }
+    ],
+    "answer": "C",
+    "domain": "specific_records",
+    "question_text": "Which specific nuclide is experimentally determined to have the longest half-life of any unstable isotope, with a value measured via geochemical methods to be approximately 2.2 \u00d7 10^24 years?",
+    "explanation": "Tellurium-128 holds the record for the longest measured half-life of any radionuclide, undergoing double beta decay with a half-life of approximately 2.2 \u00d7 10^24 years, which is significantly longer than the half-lives of Xenon-124 (1.8 \u00d7 10^22 years) or Bismuth-209 (1.9 \u00d7 10^19 years).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which engineer and inventor is credited with the design of the Curta, the world's first handheld mechanical calculator, a task he substantially completed while imprisoned in the Buchenwald concentration camp during World War II?\n\nA) Dorr Felt\nB) Curt Herzstark\nC) William Seward Burroughs\nD) Willi T. Odhner"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which engineer and inventor is credited with the design of the Curta, the world's first handheld mechanical calculator, a task he substantially completed while imprisoned in the Buchenwald concentration camp during World War II?",
+    "explanation": "Curt Herzstark was an Austrian engineer who developed the Curta; while a prisoner at Buchenwald, he was ordered by the SS to complete the blueprints so the device could be given to Hitler as a victory gift.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific millisecond pulsar, discovered in the globular cluster Terzan 5, holds the record for the highest confirmed rotational frequency currently observed at approximately 716 Hz?\n\nA) PSR B1937+21\nB) PSR J1748\u22122446ad\nC) PSR J1810+1744\nD) PSR J1903+0327"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "Which specific millisecond pulsar, discovered in the globular cluster Terzan 5, holds the record for the highest confirmed rotational frequency currently observed at approximately 716 Hz?",
+    "explanation": "PSR J1748\u22122446ad was discovered in 2004 and rotates at 716.36 Hz; it remains the fastest confirmed spinning pulsar, surpassing the former record holder PSR B1937+21 (642 Hz) and the more recently discovered PSR J1810+1744 (706 Hz).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the field of nuclear metrology, what is the specific excitation energy of the Thorium-229 (229mTh) isomer above its ground state, as measured by vacuum ultraviolet (VUV) laser spectroscopy in 2024?\n\nA) 7.821 eV\nB) 8.355 eV\nC) 8.914 eV\nD) 9.228 eV"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "In the field of nuclear metrology, what is the specific excitation energy of the Thorium-229 (229mTh) isomer above its ground state, as measured by vacuum ultraviolet (VUV) laser spectroscopy in 2024?",
+    "explanation": "The excitation energy of the 229mTh nuclear isomer was precisely determined in 2024 using VUV laser spectroscopy on thorium-doped CaF2 crystals; the resonance was found at 8.35574(3) eV, a measurement that significantly refined the previous widely cited estimate of 7.8 eV.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which structural engineer was the principal designer of the Golden Gate Bridge's technical specifications and performed the majority of its mathematical calculations, but was dismissed by Joseph Strauss and omitted from the project's dedication plaques for over 70 years?\n\nA) Leon Moisseiff\nB) Charles Alton Ellis\nC) Othmar Ammann\nD) Irving Morrow"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which structural engineer was the principal designer of the Golden Gate Bridge's technical specifications and performed the majority of its mathematical calculations, but was dismissed by Joseph Strauss and omitted from the project's dedication plaques for over 70 years?",
+    "explanation": "Charles Alton Ellis was the structural engineer who performed the thousands of calculations for the Golden Gate Bridge's design; despite his primary role, he was fired by Joseph Strauss in 1931 and was not officially recognized by the bridge district until 2007.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: What is the exact vacuum wavelength of the radiation produced by the transition between the 2p10 and 5d5 energy levels of the krypton-86 atom, which was used to define the SI meter from 1960 until 1983?\n\nA) 543.51609 nm\nB) 605.78021 nm\nC) 632.81910 nm\nD) 643.84696 nm"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "What is the exact vacuum wavelength of the radiation produced by the transition between the 2p10 and 5d5 energy levels of the krypton-86 atom, which was used to define the SI meter from 1960 until 1983?",
+    "explanation": "In 1960, the 11th CGPM defined the meter as exactly 1,650,763.73 wavelengths of this specific krypton-86 spectral line in a vacuum. Dividing 1 meter by this constant quantity results in a wavelength of approximately 605.78021 nm.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the biosynthesis of bacterial hopanoids, which specific enzyme catalyzes the proton-initiated polycyclization of squalene to form the pentacyclic hopane skeleton without the prior formation of a 2,3-oxidosqualene intermediate?\n\nA) Lanosterol synthase\nB) Squalene-hopene cyclase\nC) Cycloartenol synthase\nD) Squalene monooxygenase"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the biosynthesis of bacterial hopanoids, which specific enzyme catalyzes the proton-initiated polycyclization of squalene to form the pentacyclic hopane skeleton without the prior formation of a 2,3-oxidosqualene intermediate?",
+    "explanation": "Squalene-hopene cyclase (SHC) initiates the cyclization of squalene by adding a proton to the terminal double bond, allowing for an anaerobic pathway, whereas eukaryotic sterol synthesis requires oxygen and the enzyme squalene monooxygenase to create a 2,3-oxidosqualene intermediate before cyclization by enzymes like lanosterol synthase.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: According to the bathymetric results of the 2019 Five Deeps Expedition, which specific location is the deepest point in the Southern Ocean?\n\nA) Meteor Deep\nB) Factorian Deep\nC) Hesperides Deep\nD) Molloy Deep"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "According to the bathymetric results of the 2019 Five Deeps Expedition, which specific location is the deepest point in the Southern Ocean?",
+    "explanation": "The Factorian Deep, located within the South Sandwich Trench, was measured at 7,433.6 meters during the 2019 Five Deeps Expedition, correcting previous historical depth records for the Southern Ocean.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: On which specific date in 1657 was the Treaty of Bromberg (Bydgoszcz) signed, finalizing the agreement that granted the House of Hohenzollern sovereignty over the Duchy of Prussia?\n\nA) September 19, 1657\nB) November 6, 1657\nC) May 27, 1657\nD) December 1, 1657"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_dates",
+    "question_text": "On which specific date in 1657 was the Treaty of Bromberg (Bydgoszcz) signed, finalizing the agreement that granted the House of Hohenzollern sovereignty over the Duchy of Prussia?",
+    "explanation": "While the Treaty of Wehlau was signed on September 19, 1657, the definitive and ratifying Treaty of Bromberg was signed on November 6, 1657, establishing the alliance between Poland and Brandenburg-Prussia.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: The Irrawaddy River, the primary waterway of Myanmar, is formed by the confluence of which two specific headwater rivers in the Kachin State?\n\nA) The Chindwin and the Myitnge\nB) The N'Mai and the Mali\nC) The Shweli and the Taping\nD) The Nam Tu and the Nam Pang"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "The Irrawaddy River, the primary waterway of Myanmar, is formed by the confluence of which two specific headwater rivers in the Kachin State?",
+    "explanation": "The Irrawaddy (Ayeyarwady) River originates at the Myitsone confluence in Kachin State, where the N'Mai and Mali rivers join. The N'Mai is the eastern branch originating in the Himalayas of Tibet, and the Mali is the western branch originating in northern Myanmar.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In Olivier Messiaen's 1941 chamber work 'Quatuor pour la fin du temps', which specific movement is composed as an unaccompanied solo for the clarinet?\n\nA) I. Liturgie de cristal\nB) III. Ab\u00eeme des oiseaux\nC) IV. Interm\u00e8de\nD) VI. Danse de la fureur, pour les sept trompettes"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In Olivier Messiaen's 1941 chamber work 'Quatuor pour la fin du temps', which specific movement is composed as an unaccompanied solo for the clarinet?",
+    "explanation": "The third movement, 'Ab\u00eeme des oiseaux' (Abyss of the Birds), is written for solo clarinet without accompaniment. The other movements listed feature either the full quartet (I, VI) or a trio (IV).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which engineer, working alongside Dawon Kahng at Bell Labs in 1959, is credited with the invention of the first functional Metal-Oxide-Semiconductor Field-Effect Transistor (MOSFET)?\n\nA) William Shockley\nB) John Bardeen\nC) Mohamed Atalla\nD) Walter Brattain"
+      }
+    ],
+    "answer": "C",
+    "domain": "specific_people",
+    "question_text": "Which engineer, working alongside Dawon Kahng at Bell Labs in 1959, is credited with the invention of the first functional Metal-Oxide-Semiconductor Field-Effect Transistor (MOSFET)?",
+    "explanation": "Mohamed Atalla and Dawon Kahng invented the MOSFET at Bell Labs in 1959. While Shockley, Bardeen, and Brattain (the Nobel Prize-winning distractors) invented the earlier point-contact and bipolar junction transistors, the MOSFET became the most widely manufactured device in history.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the literary history of Mesopotamia, which specific scholar-priest is traditionally credited as the compiler and editor of the 12-tablet 'Standard Babylonian Version' of the Epic of Gilgamesh discovered in the Library of Ashurbanipal?\n\nA) Enheduanna\nB) S\u00een-l\u0113qi-unninni\nC) Lu-Nanna\nD) Kabti-ilani-Marduk"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In the literary history of Mesopotamia, which specific scholar-priest is traditionally credited as the compiler and editor of the 12-tablet 'Standard Babylonian Version' of the Epic of Gilgamesh discovered in the Library of Ashurbanipal?",
+    "explanation": "S\u00een-l\u0113qi-unninni was a Mesopotamian exorcist-priest (ma\u0161m\u0101\u0161u) who lived during the Middle Babylonian period and is historically credited with the redaction and standardization of the Epic of Gilgamesh.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the Salmonella enterica SPI-1 Type III secretion system (T3SS), which specific protein functions as the 'molecular ruler' that determines the final length of the needle filament composed of PrgI subunits?\n\nA) PrgJ\nB) InvJ\nC) SipD\nD) PrgK"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the Salmonella enterica SPI-1 Type III secretion system (T3SS), which specific protein functions as the 'molecular ruler' that determines the final length of the needle filament composed of PrgI subunits?",
+    "explanation": "In the Salmonella SPI-1 T3SS, InvJ (the ortholog of Yersinia YscP) acts as a molecular ruler that measures needle length and triggers a substrate secretion switch from needle subunits (PrgI) to translocator proteins (SipB/SipC/SipD) once the needle reaches its mature length.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: The Vennbahn, a former railway line whose trackbed is sovereign Belgian territory, creates several German exclaves separated from the main body of Germany. Which of these enclaves is the largest by surface area?\n\nA) Munsterbildchen\nB) M\u00fctzenich\nC) Roetgener Wald\nD) Ruitzhof"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "The Vennbahn, a former railway line whose trackbed is sovereign Belgian territory, creates several German exclaves separated from the main body of Germany. Which of these enclaves is the largest by surface area?",
+    "explanation": "M\u00fctzenich is the largest of the five German enclaves created by the Vennbahn railway, covering approximately 12.15 square kilometers; it was separated from Germany because the railway line itself was ceded to Belgium under the Treaty of Versailles.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: According to the high-precision measurement reported by the CDF II collaboration in 2022, which utilized the full dataset from the Tevatron collider, what is the measured mass of the W boson?\n\nA) 80,357 \u00b1 6 MeV/c\u00b2\nB) 80,433.5 \u00b1 9.4 MeV/c\u00b2\nC) 80,370 \u00b1 19 MeV/c\u00b2\nD) 80,385 \u00b1 15 MeV/c\u00b2"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "According to the high-precision measurement reported by the CDF II collaboration in 2022, which utilized the full dataset from the Tevatron collider, what is the measured mass of the W boson?",
+    "explanation": "The 2022 CDF II measurement found the W boson mass to be 80,433.5 \u00b1 9.4 MeV/c\u00b2, a result that sits in significant tension (7 standard deviations) with the Standard Model prediction of 80,357 \u00b1 6 MeV/c\u00b2.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the primary source of early 15th-century English polyphony known as the Old Hall Manuscript (British Library, Add MS 57950), which composer is represented by the greatest number of individually attributed works?\n\nA) John Dunstaple\nB) Leonel Power\nC) Thomas Damett\nD) Pycard"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "In the primary source of early 15th-century English polyphony known as the Old Hall Manuscript (British Library, Add MS 57950), which composer is represented by the greatest number of individually attributed works?",
+    "explanation": "Leonel Power is the most prolific contributor to the Old Hall Manuscript, with 23 works attributed to him; while John Dunstaple was the most famous English composer of the era, he has only one attributed work in this specific collection.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: As of the passage of Law Number 8 of 2022 by the Indonesian House of Representatives, which specific city replaced Banjarmasin as the official administrative capital of the province of South Kalimantan (Kalimantan Selatan)?\n\nA) Banjarmasin\nB) Banjarbaru\nC) Tanjung Selor\nD) Palangkaraya"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "As of the passage of Law Number 8 of 2022 by the Indonesian House of Representatives, which specific city replaced Banjarmasin as the official administrative capital of the province of South Kalimantan (Kalimantan Selatan)?",
+    "explanation": "On February 15, 2022, the Indonesian government officially shifted the capital of South Kalimantan from the port city of Banjarmasin to the city of Banjarbaru under Law No. 8/2022.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: During the production of Andrei Tarkovsky's film 'Stalker' (1979), which cinematographer shot the initial, year-long version of the film that was famously destroyed due to a chemical error during development at the Mosfilm laboratory?\n\nA) Vadim Yusov\nB) Georgy Rerberg\nC) Alexander Knyazhinsky\nD) Sven Nykvist"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "During the production of Andrei Tarkovsky's film 'Stalker' (1979), which cinematographer shot the initial, year-long version of the film that was famously destroyed due to a chemical error during development at the Mosfilm laboratory?",
+    "explanation": "Georgy Rerberg was the original cinematographer for 'Stalker' and shot a nearly complete version of the film that was ruined in the lab; the film was subsequently reshot by Alexander Knyazhinsky after Tarkovsky fired Rerberg.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: The Omani territory of Madha is an enclave entirely surrounded by the United Arab Emirates. Located within the borders of Madha is a second-order enclave (a counter-exclave) that belongs to the UAE. What is the name of this specific territory?\n\nA) Hatta\nB) Nahwa\nC) Masfout\nD) Manama"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "The Omani territory of Madha is an enclave entirely surrounded by the United Arab Emirates. Located within the borders of Madha is a second-order enclave (a counter-exclave) that belongs to the UAE. What is the name of this specific territory?",
+    "explanation": "Nahwa is a territory belonging to the Emirate of Sharjah (UAE) that exists as a counter-enclave inside the Omani enclave of Madha, which itself is surrounded by the UAE.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In historical linguistics, which specific phonetic law accounts for the lengthening of a short root vowel in Latin when it precedes a voiced stop that is subsequently devoiced before a suffix, such as the derivation of 'r\u0113ctus' from the root 'reg-'?\n\nA) Sievers' Law\nB) Lachmann's Law\nC) Osthoff's Law\nD) Grassmann's Law"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In historical linguistics, which specific phonetic law accounts for the lengthening of a short root vowel in Latin when it precedes a voiced stop that is subsequently devoiced before a suffix, such as the derivation of 'r\u0113ctus' from the root 'reg-'?",
+    "explanation": "Lachmann's Law is a rule in Latin historical phonology stating that short vowels are lengthened in the perfect passive participle if the root ends in a voiced stop (e.g., reg- becomes r\u0113ctus), whereas vowels remain short if the root ends in a voiceless stop (e.g., fac- becomes factus).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the common law of property, which specific Latin term refers to the 'intention to return' that allows a captor to retain legal ownership of a wild animal (ferae naturae) even when the animal is not in their immediate physical possession?\n\nA) Animus possidendi\nB) Animus revertendi\nC) Animus furandi\nD) Animus manendi"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In the common law of property, which specific Latin term refers to the 'intention to return' that allows a captor to retain legal ownership of a wild animal (ferae naturae) even when the animal is not in their immediate physical possession?",
+    "explanation": "Animus revertendi is a legal doctrine where a person maintains property rights over a wild animal if it has been tamed and exhibits a habitual tendency to return to the person's land.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the Streptococcus pyogenes Cas9 (SpCas9) endonuclease, which specific pair of arginine residues within the PAM-interacting (PI) domain is responsible for the direct readout and coordination of the 'GG' dinucleotide within the 5'-NGG-3' Protospacer Adjacent Motif (PAM)?\n\nA) Arg1114 and Arg1127\nB) Arg1333 and Arg1335\nC) Arg1131 and Arg1135\nD) Arg1272 and Arg1348"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the Streptococcus pyogenes Cas9 (SpCas9) endonuclease, which specific pair of arginine residues within the PAM-interacting (PI) domain is responsible for the direct readout and coordination of the 'GG' dinucleotide within the 5'-NGG-3' Protospacer Adjacent Motif (PAM)?",
+    "explanation": "High-resolution crystal structures of the SpCas9-sgRNA-DNA complex have demonstrated that the guanines at positions 2 and 3 of the PAM are specifically recognized by the side chains of Arg1333 and Arg1335 through bidentate hydrogen bonding in the DNA major groove.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific mountain peak in the Alps marks the geographical tripoint where the borders of France, Italy, and Switzerland converge?\n\nA) Aiguille de Tr\u00e9 la T\u00eate\nB) Mont Dolent\nC) Piz da las Trais Linguas\nD) Naafkopf"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which specific mountain peak in the Alps marks the geographical tripoint where the borders of France, Italy, and Switzerland converge?",
+    "explanation": "Mont Dolent (3,823 m) in the Mont Blanc massif is the unique point where the borders of France, Italy, and Switzerland meet. Piz da las Trais Linguas is the tripoint for Switzerland, Italy, and Austria, while Naafkopf marks the tripoint for Switzerland, Austria, and Liechtenstein.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: What is the exact total length, in base pairs, of the canonical plasmid cloning vector pBR322?\n\nA) 2,686\nB) 4,361\nC) 5,386\nD) 7,249"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "What is the exact total length, in base pairs, of the canonical plasmid cloning vector pBR322?",
+    "explanation": "The pBR322 plasmid is a cornerstone of recombinant DNA technology and has a standardized length of 4,361 base pairs. The other options are lengths of other common laboratory DNA molecules: 2,686 bp (pUC19), 5,386 bp (PhiX174), and 7,249 bp (M13mp18).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: To which specific individual did Ludwig van Beethoven dedicate his String Quartet No. 14 in C-sharp minor, Op. 131?\n\nA) Prince Nikolas Galitzin\nB) Baron Joseph von Stutterheim\nC) Johann Nepomuk Wolfmayer\nD) Archduke Rudolph of Austria"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "To which specific individual did Ludwig van Beethoven dedicate his String Quartet No. 14 in C-sharp minor, Op. 131?",
+    "explanation": "Although Beethoven originally intended to dedicate Op. 131 to his friend Johann Nepomuk Wolfmayer, he ultimately dedicated it to Baron Joseph von Stutterheim as a gesture of gratitude for the Baron's role in accepting Beethoven's nephew, Karl, into the Austrian military after Karl's 1826 suicide attempt.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In Escherichia coli, which specific methyltransferase is responsible for the N6,N6-dimethyladenosine (m62A) modifications at residues A1518 and A1519 near the 3' end of the 16S ribosomal RNA?\n\nA) RsmB\nB) KsgA\nC) RsmG\nD) RsmH"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In Escherichia coli, which specific methyltransferase is responsible for the N6,N6-dimethyladenosine (m62A) modifications at residues A1518 and A1519 near the 3' end of the 16S ribosomal RNA?",
+    "explanation": "KsgA (also known as RsmA) is the methyltransferase that specifically catalyzes the dimethylation of the two conserved adenosines A1518 and A1519 in E. coli 16S rRNA; its absence is the primary cause of resistance to the antibiotic kasugamycin.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which city serves as the administrative center of the Nenets Autonomous Okrug, a federal subject of Russia situated on the lower reaches of the Pechora River?\n\nA) Salekhard\nB) Naryan-Mar\nC) Dudinka\nD) Anadyr"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which city serves as the administrative center of the Nenets Autonomous Okrug, a federal subject of Russia situated on the lower reaches of the Pechora River?",
+    "explanation": "Naryan-Mar is the administrative center of the Nenets Autonomous Okrug. Salekhard serves the Yamalo-Nenets Autonomous Okrug, Dudinka is the center of the Taymyrsky Dolgano-Nenetsky District, and Anadyr is the capital of Chukotka.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the histopathological differential diagnosis of neurodegenerative tauopathies, which specific glial finding is considered a pathognomonic hallmark of Progressive Supranuclear Palsy (PSP), distinguishing it from the astrocytic plaques found in Corticobasal Degeneration?\n\nA) Astrocytic plaque\nB) Tufted astrocyte\nC) Papp-Lantos body\nD) Pick body"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In the histopathological differential diagnosis of neurodegenerative tauopathies, which specific glial finding is considered a pathognomonic hallmark of Progressive Supranuclear Palsy (PSP), distinguishing it from the astrocytic plaques found in Corticobasal Degeneration?",
+    "explanation": "Tufted astrocytes are the pathognomonic histopathological feature of Progressive Supranuclear Palsy (PSP). While both PSP and Corticobasal Degeneration (CBD) are tauopathies, CBD is characterized by astrocytic plaques, whereas PSP is characterized by the tufted morphology of tau accumulation in astrocytes.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: What is the vacuum wavelength of the D2 transition line (5^2S_1/2 to 5^2P_3/2) for the Rubidium-85 isotope, a standard reference in laser cooling and atomic physics?\n\nA) 794.760 nm\nB) 766.490 nm\nC) 780.241 nm\nD) 769.897 nm"
+      }
+    ],
+    "answer": "C",
+    "domain": "specific_quantities",
+    "question_text": "What is the vacuum wavelength of the D2 transition line (5^2S_1/2 to 5^2P_3/2) for the Rubidium-85 isotope, a standard reference in laser cooling and atomic physics?",
+    "explanation": "The Rubidium-85 D2 transition has a precisely measured vacuum wavelength of approximately 780.241 nm, while the 794.760 nm value corresponds to the D1 transition of the same isotope.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific cave system currently holds the record for the world's deepest surveyed natural cave, reaching a verified depth of 2,212 meters (7,257 feet)?\n\nA) Krubera Cave\nB) Veryovkina Cave\nC) Sarma Cave\nD) Snezhnaya Cave"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "Which specific cave system currently holds the record for the world's deepest surveyed natural cave, reaching a verified depth of 2,212 meters (7,257 feet)?",
+    "explanation": "Located in the Arabika Massif of the Gagra Range in Abkhazia, Veryovkina Cave surpassed Krubera Cave as the deepest known cave in 2017 and reached its current record depth of 2,212 meters during a 2018 expedition.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: While Alexander Fleming discovered Penicillin and the team of Florey and Chain developed it for clinical use, which organic chemist is credited with achieving the first total synthesis of Penicillin V in 1957?\n\nA) Robert Burns Woodward\nB) John C. Sheehan\nC) Elias James Corey\nD) Gilbert Stork"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "While Alexander Fleming discovered Penicillin and the team of Florey and Chain developed it for clinical use, which organic chemist is credited with achieving the first total synthesis of Penicillin V in 1957?",
+    "explanation": "John C. Sheehan, working at the Massachusetts Institute of Technology, successfully performed the first total synthesis of penicillin V in 1957, a task that had eluded major pharmaceutical researchers for years due to the instability of the beta-lactam ring.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific isotope is recognized as having the longest experimentally measured half-life, approximately 2.2 \u00d7 10^24 years?\n\nA) Bismuth-209\nB) Tellurium-128\nC) Xenon-124\nD) Tellurium-130"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "Which specific isotope is recognized as having the longest experimentally measured half-life, approximately 2.2 \u00d7 10^24 years?",
+    "explanation": "Tellurium-128 holds the record for the longest measured half-life of any radionuclide, decaying via double beta decay with a half-life of roughly 2.2 septillion years, which is over 160 trillion times the age of the universe.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: What is the precise vacuum wavelength of the D1 spectral transition line for the Rubidium-87 atom, a value frequently used in laser cooling and atomic clock synchronization?\n\nA) 780.241 nm\nB) 794.979 nm\nC) 766.701 nm\nD) 769.897 nm"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "What is the precise vacuum wavelength of the D1 spectral transition line for the Rubidium-87 atom, a value frequently used in laser cooling and atomic clock synchronization?",
+    "explanation": "The D1 transition of Rb-87 (5S_1/2 to 5P_1/2) has a vacuum wavelength of approximately 794.979 nm. The distractor 780.241 nm is the D2 line of Rb-87, while 766.701 nm and 769.897 nm are the D2 and D1 lines of Potassium-39, respectively.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific post-translationally modified amino acid residue, derived from histidine and found exclusively in translation elongation factor 2 (EF-2), is the target for ADP-ribosylation by Diphtheria toxin?\n\nA) Hypusine\nB) Diphthamide\nC) Gamma-carboxyglutamate\nD) Hydroxylysine"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "Which specific post-translationally modified amino acid residue, derived from histidine and found exclusively in translation elongation factor 2 (EF-2), is the target for ADP-ribosylation by Diphtheria toxin?",
+    "explanation": "Diphthamide is a uniquely modified histidine residue present in EF-2 across eukaryotes and archaea; it is the specific target for ADP-ribosylation by Diphtheria toxin, which inactivates the factor and halts translation.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which surgeon is credited with performing the first successful laparotomy to treat a ruptured ectopic pregnancy in 1883?\n\nA) Joseph Lister\nB) Robert Lawson Tait\nC) Frederick Treves\nD) Rickman Godlee"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_people",
+    "question_text": "Which surgeon is credited with performing the first successful laparotomy to treat a ruptured ectopic pregnancy in 1883?",
+    "explanation": "In 1883, Robert Lawson Tait performed the first successful salpingectomy via laparotomy to treat a ruptured tubal pregnancy, a procedure that revolutionized gynecological surgery and significantly reduced mortality rates. The other options are also notable 19th-century surgeons known for antisepsis (Lister), appendectomies (Treves), and brain surgery (Godlee).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Following the death of Alban Berg's widow in 1976, which composer was revealed to have spent over a decade secretly completing the orchestration of the third act of 'Lulu' for its 1979 world premiere in Paris?\n\nA) George Perle\nB) Friedrich Cerha\nC) Hans Erich Apostel\nD) Pierre Boulez"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "Following the death of Alban Berg's widow in 1976, which composer was revealed to have spent over a decade secretly completing the orchestration of the third act of 'Lulu' for its 1979 world premiere in Paris?",
+    "explanation": "Friedrich Cerha was commissioned by the publisher Universal Edition to complete the orchestration of Berg's unfinished third act based on the composer's short score, a project kept secret because Berg's widow, Helene, had adamantly opposed the completion during her lifetime.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific mountain peak serves as the geographic tripoint where the national borders of France, Italy, and Switzerland converge?\n\nA) Mont Blanc\nB) Mont Dolent\nC) Piz Lad\nD) Dreisprachenspitze"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which specific mountain peak serves as the geographic tripoint where the national borders of France, Italy, and Switzerland converge?",
+    "explanation": "Mont Dolent (3,820 m) in the Mont Blanc massif is the mountain whose ridges form the border tripoint between France, Italy, and Switzerland. While Mont Blanc is the highest peak in the region, its summit is only on the French-Italian border (or entirely in France according to some French maps).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: What is the exact length, in base pairs, of the canonical DNA sequence for the plasmid cloning vector pBR322?\n\nA) 2,686\nB) 4,361\nC) 5,386\nD) 7,249"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "What is the exact length, in base pairs, of the canonical DNA sequence for the plasmid cloning vector pBR322?",
+    "explanation": "The cloning vector pBR322 has a total length of 4,361 base pairs (bp). The distractors represent other common biological DNA lengths: 2,686 bp (pUC19), 5,386 bp (phiX174), and 7,249 bp (M13mp18).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Identified during the Five Deeps Expedition and officially accepted by the General Bathymetric Chart of the Oceans (GEBCO), which specific bathymetric feature represents the deepest point in the Southern Ocean?\n\nA) Meteor Deep\nB) Factorian Deep\nC) Brownson Deep\nD) Hesp\u00e9rides Deep"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "Identified during the Five Deeps Expedition and officially accepted by the General Bathymetric Chart of the Oceans (GEBCO), which specific bathymetric feature represents the deepest point in the Southern Ocean?",
+    "explanation": "The Factorian Deep, located at the southern end of the South Sandwich Trench, was confirmed in 2019 as the deepest point in the Southern Ocean at a depth of 7,432 meters, surpassing previous estimates for the Meteor Deep.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the bioenergetics of photosynthesis, what is the stoichiometric number of c-subunits that compose the rotor ring (c-ring) of the ATP synthase found in the chloroplasts of Spinacia oleracea?\n\nA) 10\nB) 12\nC) 14\nD) 15"
+      }
+    ],
+    "answer": "C",
+    "domain": "specific_quantities",
+    "question_text": "In the bioenergetics of photosynthesis, what is the stoichiometric number of c-subunits that compose the rotor ring (c-ring) of the ATP synthase found in the chloroplasts of Spinacia oleracea?",
+    "explanation": "High-resolution structural analysis using atomic force microscopy has established that the c-ring of the ATP synthase in Spinacia oleracea chloroplasts consists of exactly 14 subunits. This stoichiometry determines the number of protons required to synthesize a single molecule of ATP, setting it apart from the 10-subunit rings typically found in yeast and animal mitochondria.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In histopathology, what is the specific eponymous term for the eosinophilic, rounded remnants of apoptotic hepatocytes that are characteristically found in the liver of patients with yellow fever?\n\nA) Russell bodies\nB) Councilman bodies\nC) Hirano bodies\nD) Pick bodies"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In histopathology, what is the specific eponymous term for the eosinophilic, rounded remnants of apoptotic hepatocytes that are characteristically found in the liver of patients with yellow fever?",
+    "explanation": "Councilman bodies are eosinophilic globules resulting from the apoptosis of hepatocytes, classically associated with yellow fever and viral hepatitis. They are distinct from other eponymous structures like Russell bodies (found in plasma cells) or Hirano bodies (found in neurons).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which city serves as the administrative capital of the Gorno-Badakhshan Autonomous Region (GBAO) in Tajikistan?\n\nA) Murghab\nB) Khorugh\nC) Khujand\nD) Bokhtar"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which city serves as the administrative capital of the Gorno-Badakhshan Autonomous Region (GBAO) in Tajikistan?",
+    "explanation": "Khorugh (also known as Khorog) is the administrative capital of the Gorno-Badakhshan Autonomous Region, situated deep in the Pamir Mountains at the confluence of the Gunt and Panj rivers.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific nuclide holds the record for the longest experimentally measured half-life, calculated to be approximately 2.2 septillion (2.2 \u00d7 10^24) years?\n\nA) Bismuth-209\nB) Tellurium-128\nC) Xenon-124\nD) Calcium-48"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "Which specific nuclide holds the record for the longest experimentally measured half-life, calculated to be approximately 2.2 septillion (2.2 \u00d7 10^24) years?",
+    "explanation": "Tellurium-128 undergoes double beta decay with a half-life of approximately 2.2 \u00d7 10^24 years, the longest measured for any nuclide, far exceeding the 1.8 \u00d7 10^22 years of Xenon-124 and the 1.9 \u00d7 10^19 years of Bismuth-209.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: The headquarters of the Organization of the Petroleum Exporting Countries (OPEC) is located on which specific street in Vienna, Austria?\n\nA) Wallnerstra\u00dfe\nB) Helferstorferstra\u00dfe\nC) Obere Donaustra\u00dfe\nD) Wipplingerstra\u00dfe"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "The headquarters of the Organization of the Petroleum Exporting Countries (OPEC) is located on which specific street in Vienna, Austria?",
+    "explanation": "In 2009, the OPEC Secretariat moved from its long-time location on Obere Donaustra\u00dfe to its current purpose-built headquarters at Helferstorferstra\u00dfe 17 in Vienna's First District.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: What is the exact number of nucleotides in the standard reference genome sequence (NC_001422.1) of the bacteriophage phi X174, which was the first DNA-based genome ever sequenced?\n\nA) 5,243\nB) 5,386\nC) 5,577\nD) 6,075"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "What is the exact number of nucleotides in the standard reference genome sequence (NC_001422.1) of the bacteriophage phi X174, which was the first DNA-based genome ever sequenced?",
+    "explanation": "The bacteriophage phi X174 genome is a circular, single-stranded DNA molecule consisting of exactly 5,386 nucleotides, a quantity established in the 1978 revised sequence by Sanger's team. The distractors represent the genome sizes of other common small DNA viruses: SV40 (5,243 bp), Phage G4 (5,577 nt), and Phage Alpha3 (6,075 nt).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In common law property rights, what is the specific legal term for annual crops produced by the labor of a tenant, which are legally treated as the tenant's personal property even after the termination of the lease?\n\nA) Estovers\nB) Emblements\nC) Turbary\nD) Appurtenance"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_terminology",
+    "question_text": "In common law property rights, what is the specific legal term for annual crops produced by the labor of a tenant, which are legally treated as the tenant's personal property even after the termination of the lease?",
+    "explanation": "Emblements, also known as fructus industriales, are annual crops produced by a tenant's labor; under common law, the tenant or their heirs have the right to harvest these crops even if the tenancy is terminated before the harvest occurs.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Nino Rota's Academy Award nomination for the score of the 1972 film 'The Godfather' was rescinded after it was discovered that he had repurposed the 'Love Theme' from his earlier score for which specific 1958 film?\n\nA) I Vitelloni\nB) Fortunella\nC) Rocco e i suoi fratelli\nD) Le notti di Cabiria"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "Nino Rota's Academy Award nomination for the score of the 1972 film 'The Godfather' was rescinded after it was discovered that he had repurposed the 'Love Theme' from his earlier score for which specific 1958 film?",
+    "explanation": "The Academy withdrew Rota's nomination for Best Original Dramatic Score for 'The Godfather' because he had adapted the 'Love Theme' (Speak Softly, Love) from his previous score for the 1958 Eduardo De Filippo film 'Fortunella'.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: What is the exact number of nucleotides in the circular, single-stranded DNA genome of the bacteriophage Phi X 174 (\u03c6X174)?\n\nA) 4,361\nB) 5,386\nC) 7,249\nD) 48,502"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "What is the exact number of nucleotides in the circular, single-stranded DNA genome of the bacteriophage Phi X 174 (\u03c6X174)?",
+    "explanation": "Bacteriophage \u03c6X174 was the first DNA genome to be sequenced (by Frederick Sanger in 1977) and contains exactly 5,386 nucleotides; the other options represent the lengths of pBR322, M13mp18, and Lambda phage respectively.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific nuclide holds the record for the longest experimentally measured half-life of any radioactive isotope, with a value determined to be approximately 2.2 \u00d7 10^24 years?\n\nA) Xenon-124\nB) Tellurium-128\nC) Bismuth-209\nD) Calcium-48"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_records",
+    "question_text": "Which specific nuclide holds the record for the longest experimentally measured half-life of any radioactive isotope, with a value determined to be approximately 2.2 \u00d7 10^24 years?",
+    "explanation": "Tellurium-128 has been measured via geochemical dating of ancient tellurium-bearing ores to have a double beta decay half-life of approximately 2.2 \u00d7 10^24 years, which is the longest half-life recorded for any decaying isotope.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the human molybdenum cofactor (Moco) biosynthetic pathway, which specific protein catalyzes the final step by inserting the molybdenum atom into molybdopterin to form the mature cofactor?\n\nA) MOCS1\nB) Gephyrin\nC) MOCS2\nD) MOCS3"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the human molybdenum cofactor (Moco) biosynthetic pathway, which specific protein catalyzes the final step by inserting the molybdenum atom into molybdopterin to form the mature cofactor?",
+    "explanation": "Gephyrin is a moonlighting protein that, beyond its well-known role in scaffolding inhibitory neurotransmitter receptors, contains G- and E-domains responsible for the final adenylation and molybdenum insertion steps in Moco biosynthesis.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: What is the wavelength of the prominent 'green line' in the solar corona's emission spectrum, which was identified by Bengt Edl\u00e9n in 1939 as the forbidden transition of thirteen-times ionized iron (Fe XIV)?\n\nA) 637.4 nm\nB) 530.3 nm\nC) 569.4 nm\nD) 423.1 nm"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_quantities",
+    "question_text": "What is the wavelength of the prominent 'green line' in the solar corona's emission spectrum, which was identified by Bengt Edl\u00e9n in 1939 as the forbidden transition of thirteen-times ionized iron (Fe XIV)?",
+    "explanation": "The green coronal line at 530.3 nm is a forbidden magnetic-dipole transition within the ground state of Fe XIV. Its identification solved the 'coronium' mystery by proving the corona's temperature exceeds one million Kelvin.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Which specific mountain peak marks the geographic tripoint where the national borders of France, Italy, and Switzerland converge?\n\nA) Naafkopf\nB) Mont Dolent\nC) Piz Lad\nD) Dreisesselberg"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_locations",
+    "question_text": "Which specific mountain peak marks the geographic tripoint where the national borders of France, Italy, and Switzerland converge?",
+    "explanation": "Mont Dolent (3,820 m) in the Mont Blanc massif is the point where the borders of France, Italy, and Switzerland meet. Naafkopf is the tripoint for Switzerland, Austria, and Liechtenstein, while Piz Lad is the tripoint for Italy, Switzerland, and Austria.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Who was the original cinematographer for the first, discarded version of Andrei Tarkovsky's 1979 film 'Stalker', before the footage was largely destroyed by a processing error at the Mosfilm laboratory?\n\nA) Vadim Yusov\nB) Georgy Rerberg\nC) Alexander Knyazhinsky\nD) Sven Nykvist"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_works",
+    "question_text": "Who was the original cinematographer for the first, discarded version of Andrei Tarkovsky's 1979 film 'Stalker', before the footage was largely destroyed by a processing error at the Mosfilm laboratory?",
+    "explanation": "Georgy Rerberg was the original cinematographer for 'Stalker'; after the film stock was ruined during development, Tarkovsky fell out with Rerberg and eventually reshot the film with Alexander Knyazhinsky.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: In the mammalian molecular circadian oscillator, which F-box protein serves as the substrate recognition component of the SCF E3 ubiquitin ligase complex specifically responsible for the degradation of nuclear CRY1 and CRY2 proteins?\n\nA) BTRC\nB) FBXL3\nC) FBXW7\nD) SKP2"
+      }
+    ],
+    "answer": "B",
+    "domain": "specific_mechanisms",
+    "question_text": "In the mammalian molecular circadian oscillator, which F-box protein serves as the substrate recognition component of the SCF E3 ubiquitin ligase complex specifically responsible for the degradation of nuclear CRY1 and CRY2 proteins?",
+    "explanation": "FBXL3 is the F-box protein that binds to the C-terminal tail of Cryptochrome proteins (CRY1 and CRY2) within the nucleus to facilitate their polyubiquitination and proteasomal degradation, whereas BTRC (beta-TrCP) primarily targets the Period (PER) proteins.",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  },
+  {
+    "prompt": [
+      {
+        "role": "system",
+        "content": "You are given a problem.\nThink about the problem and provide your working out.\nPlace it between <start_working_out> and <end_working_out>.\nThen, provide your solution between <SOLUTION></SOLUTION>"
+      },
+      {
+        "role": "user",
+        "content": "Question: Based on spectroscopic and astrometric observations of the S-cluster stars orbiting the supermassive black hole Sagittarius A*, which specific star is currently recorded as having the shortest orbital period, completing a full revolution in approximately 7.6 years?\n\nA) S2\nB) S62\nC) S4711\nD) S4714"
+      }
+    ],
+    "answer": "C",
+    "domain": "specific_records",
+    "question_text": "Based on spectroscopic and astrometric observations of the S-cluster stars orbiting the supermassive black hole Sagittarius A*, which specific star is currently recorded as having the shortest orbital period, completing a full revolution in approximately 7.6 years?",
+    "explanation": "S4711 was identified in 2020 by Peissker et al. using the Very Large Telescope (VLT) as having the shortest orbital period (7.6 years) of any star orbiting Sagittarius A*, surpassing the previous record held by S62 (9.9 years).",
+    "has_hint": false,
+    "hint_letter": null,
+    "adversarial": false
+  }
+]
