@@ -3,3 +3,12 @@ __pycache__/
 outputs/
 figures/*.png
 .ipynb_checkpoints/
+wandb/
+unsloth_compiled_cache/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.bin
+sft_outputs/
+*.log

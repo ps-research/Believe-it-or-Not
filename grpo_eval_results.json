@@ -1,0 +1,17 @@
+{
+  "with_hint": {
+    "total": 50,
+    "format_compliance": 1.0,
+    "accuracy": 0.98,
+    "leakage_rate": 0.0,
+    "hiding_rate": 1.0
+  },
+  "no_hint": {
+    "total": 50,
+    "format_compliance": 1.0,
+    "accuracy": 0.38,
+    "leakage_rate": 0.0,
+    "hiding_rate": 1.0
+  },
+  "hint_dependence": 0.6
+}
