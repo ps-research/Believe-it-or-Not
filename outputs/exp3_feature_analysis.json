@@ -1,0 +1,4293 @@
+{
+  "prompts": [
+    {
+      "prompt_idx": 0,
+      "n_tokens": 145,
+      "question": "The Sabatier reaction is a chemical process utilized in life-support systems on the International Sp",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 0.0,
+          "grpo_act": 408.0,
+          "delta": 408.0
+        },
+        {
+          "layer": 7,
+          "feature": 206,
+          "base_act": 0.0,
+          "grpo_act": 140.8,
+          "delta": 140.8
+        },
+        {
+          "layer": 16,
+          "feature": 9419,
+          "base_act": 0.0,
+          "grpo_act": 134.0,
+          "delta": 134.0
+        },
+        {
+          "layer": 18,
+          "feature": 3750,
+          "base_act": 0.0,
+          "grpo_act": 120.0,
+          "delta": 120.0
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 91.2,
+          "delta": 91.2
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 0.0,
+          "grpo_act": 82.9,
+          "delta": 82.9
+        },
+        {
+          "layer": 15,
+          "feature": 219,
+          "base_act": 0.0,
+          "grpo_act": 72.5,
+          "delta": 72.5
+        },
+        {
+          "layer": 14,
+          "feature": 2718,
+          "base_act": 0.0,
+          "grpo_act": 68.1,
+          "delta": 68.1
+        },
+        {
+          "layer": 18,
+          "feature": 1023,
+          "base_act": 0.0,
+          "grpo_act": 66.0,
+          "delta": 66.0
+        },
+        {
+          "layer": 13,
+          "feature": 7489,
+          "base_act": 0.0,
+          "grpo_act": 52.4,
+          "delta": 52.4
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 51.9,
+          "delta": 51.9
+        },
+        {
+          "layer": 13,
+          "feature": 298,
+          "base_act": 0.0,
+          "grpo_act": 44.8,
+          "delta": 44.8
+        },
+        {
+          "layer": 12,
+          "feature": 185,
+          "base_act": 0.0,
+          "grpo_act": 44.0,
+          "delta": 44.0
+        },
+        {
+          "layer": 13,
+          "feature": 247,
+          "base_act": 0.0,
+          "grpo_act": 41.7,
+          "delta": 41.7
+        },
+        {
+          "layer": 14,
+          "feature": 2491,
+          "base_act": 0.0,
+          "grpo_act": 41.5,
+          "delta": 41.5
+        },
+        {
+          "layer": 12,
+          "feature": 4105,
+          "base_act": 0.0,
+          "grpo_act": 41.4,
+          "delta": 41.4
+        },
+        {
+          "layer": 15,
+          "feature": 324,
+          "base_act": 0.0,
+          "grpo_act": 41.0,
+          "delta": 41.0
+        },
+        {
+          "layer": 16,
+          "feature": 391,
+          "base_act": 0.0,
+          "grpo_act": 40.5,
+          "delta": 40.5
+        },
+        {
+          "layer": 13,
+          "feature": 955,
+          "base_act": 0.0,
+          "grpo_act": 36.9,
+          "delta": 36.9
+        },
+        {
+          "layer": 11,
+          "feature": 3054,
+          "base_act": 0.0,
+          "grpo_act": 35.2,
+          "delta": 35.2
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 128.2,
+          "grpo_act": 588.0,
+          "delta": 459.8
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 61.2,
+          "grpo_act": 245.8,
+          "delta": 184.5
+        },
+        {
+          "layer": 23,
+          "feature": 197,
+          "base_act": 212.0,
+          "grpo_act": 362.0,
+          "delta": 150.0
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 28.2,
+          "grpo_act": 146.9,
+          "delta": 118.6
+        },
+        {
+          "layer": 14,
+          "feature": 351,
+          "base_act": 174.8,
+          "grpo_act": 286.8,
+          "delta": 112.0
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 24.8,
+          "grpo_act": 107.0,
+          "delta": 82.2
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 22.5,
+          "grpo_act": 87.2,
+          "delta": 64.8
+        },
+        {
+          "layer": 13,
+          "feature": 1338,
+          "base_act": 78.4,
+          "grpo_act": 139.4,
+          "delta": 61.0
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 55.4,
+          "grpo_act": 114.4,
+          "delta": 59.0
+        },
+        {
+          "layer": 13,
+          "feature": 5221,
+          "base_act": 43.2,
+          "grpo_act": 100.2,
+          "delta": 57.0
+        },
+        {
+          "layer": 8,
+          "feature": 2358,
+          "base_act": 73.9,
+          "grpo_act": 114.2,
+          "delta": 40.4
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 45.2,
+          "grpo_act": 80.8,
+          "delta": 35.6
+        },
+        {
+          "layer": 11,
+          "feature": 721,
+          "base_act": 37.4,
+          "grpo_act": 66.0,
+          "delta": 28.6
+        },
+        {
+          "layer": 9,
+          "feature": 316,
+          "base_act": 45.5,
+          "grpo_act": 71.2,
+          "delta": 25.8
+        },
+        {
+          "layer": 10,
+          "feature": 3655,
+          "base_act": 42.6,
+          "grpo_act": 65.5,
+          "delta": 22.9
+        },
+        {
+          "layer": 6,
+          "feature": 1,
+          "base_act": 35.1,
+          "grpo_act": 56.8,
+          "delta": 21.8
+        },
+        {
+          "layer": 12,
+          "feature": 221,
+          "base_act": 22.6,
+          "grpo_act": 42.6,
+          "delta": 20.0
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 387.2,
+          "grpo_act": 0.0,
+          "delta": -387.2
+        },
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 452.5,
+          "grpo_act": 73.0,
+          "delta": -379.5
+        },
+        {
+          "layer": 25,
+          "feature": 216,
+          "base_act": 577.0,
+          "grpo_act": 202.5,
+          "delta": -374.5
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 222.0,
+          "grpo_act": 0.0,
+          "delta": -222.0
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 166.0,
+          "grpo_act": 0.0,
+          "delta": -166.0
+        },
+        {
+          "layer": 17,
+          "feature": 2000,
+          "base_act": 164.9,
+          "grpo_act": 0.0,
+          "delta": -164.9
+        },
+        {
+          "layer": 24,
+          "feature": 1460,
+          "base_act": 154.9,
+          "grpo_act": 0.0,
+          "delta": -154.9
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 132.2,
+          "grpo_act": 0.0,
+          "delta": -132.2
+        },
+        {
+          "layer": 17,
+          "feature": 5488,
+          "base_act": 128.2,
+          "grpo_act": 0.0,
+          "delta": -128.2
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 163.5,
+          "grpo_act": 58.2,
+          "delta": -105.2
+        },
+        {
+          "layer": 14,
+          "feature": 88,
+          "base_act": 104.9,
+          "grpo_act": 0.0,
+          "delta": -104.9
+        },
+        {
+          "layer": 15,
+          "feature": 1182,
+          "base_act": 151.0,
+          "grpo_act": 53.0,
+          "delta": -98.0
+        },
+        {
+          "layer": 11,
+          "feature": 118,
+          "base_act": 92.9,
+          "grpo_act": 0.0,
+          "delta": -92.9
+        },
+        {
+          "layer": 15,
+          "feature": 8042,
+          "base_act": 88.0,
+          "grpo_act": 0.0,
+          "delta": -88.0
+        },
+        {
+          "layer": 14,
+          "feature": 558,
+          "base_act": 104.8,
+          "grpo_act": 17.2,
+          "delta": -87.5
+        },
+        {
+          "layer": 13,
+          "feature": 2706,
+          "base_act": 84.5,
+          "grpo_act": 0.0,
+          "delta": -84.5
+        },
+        {
+          "layer": 13,
+          "feature": 615,
+          "base_act": 158.0,
+          "grpo_act": 74.1,
+          "delta": -83.9
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 158.0,
+          "grpo_act": 76.5,
+          "delta": -81.5
+        },
+        {
+          "layer": 16,
+          "feature": 122,
+          "base_act": 73.0,
+          "grpo_act": 0.0,
+          "delta": -73.0
+        },
+        {
+          "layer": 18,
+          "feature": 1007,
+          "base_act": 68.4,
+          "grpo_act": 0.0,
+          "delta": -68.4
+        }
+      ],
+      "total_new": 39,
+      "total_amplified": 17,
+      "total_suppressed": 58
+    },
+    {
+      "prompt_idx": 1,
+      "n_tokens": 155,
+      "question": "In the world premiere of Olivier Messiaen's 'Quatuor pour la fin du temps', performed at the prisone",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 18,
+          "feature": 1023,
+          "base_act": 0.0,
+          "grpo_act": 201.5,
+          "delta": 201.5
+        },
+        {
+          "layer": 7,
+          "feature": 206,
+          "base_act": 0.0,
+          "grpo_act": 160.1,
+          "delta": 160.1
+        },
+        {
+          "layer": 16,
+          "feature": 5206,
+          "base_act": 0.0,
+          "grpo_act": 146.0,
+          "delta": 146.0
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 108.9,
+          "delta": 108.9
+        },
+        {
+          "layer": 19,
+          "feature": 3863,
+          "base_act": 0.0,
+          "grpo_act": 108.5,
+          "delta": 108.5
+        },
+        {
+          "layer": 16,
+          "feature": 391,
+          "base_act": 0.0,
+          "grpo_act": 102.0,
+          "delta": 102.0
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 0.0,
+          "grpo_act": 82.2,
+          "delta": 82.2
+        },
+        {
+          "layer": 13,
+          "feature": 813,
+          "base_act": 0.0,
+          "grpo_act": 72.5,
+          "delta": 72.5
+        },
+        {
+          "layer": 18,
+          "feature": 2458,
+          "base_act": 0.0,
+          "grpo_act": 72.5,
+          "delta": 72.5
+        },
+        {
+          "layer": 18,
+          "feature": 605,
+          "base_act": 0.0,
+          "grpo_act": 71.2,
+          "delta": 71.2
+        },
+        {
+          "layer": 7,
+          "feature": 7972,
+          "base_act": 0.0,
+          "grpo_act": 67.9,
+          "delta": 67.9
+        },
+        {
+          "layer": 14,
+          "feature": 2491,
+          "base_act": 0.0,
+          "grpo_act": 67.5,
+          "delta": 67.5
+        },
+        {
+          "layer": 20,
+          "feature": 138,
+          "base_act": 0.0,
+          "grpo_act": 65.8,
+          "delta": 65.8
+        },
+        {
+          "layer": 15,
+          "feature": 8266,
+          "base_act": 0.0,
+          "grpo_act": 62.5,
+          "delta": 62.5
+        },
+        {
+          "layer": 13,
+          "feature": 7489,
+          "base_act": 0.0,
+          "grpo_act": 55.4,
+          "delta": 55.4
+        },
+        {
+          "layer": 13,
+          "feature": 247,
+          "base_act": 0.0,
+          "grpo_act": 53.1,
+          "delta": 53.1
+        },
+        {
+          "layer": 14,
+          "feature": 1619,
+          "base_act": 0.0,
+          "grpo_act": 53.0,
+          "delta": 53.0
+        },
+        {
+          "layer": 13,
+          "feature": 5221,
+          "base_act": 0.0,
+          "grpo_act": 51.0,
+          "delta": 51.0
+        },
+        {
+          "layer": 13,
+          "feature": 4152,
+          "base_act": 0.0,
+          "grpo_act": 47.1,
+          "delta": 47.1
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 46.0,
+          "delta": 46.0
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 187.5,
+          "grpo_act": 721.0,
+          "delta": 533.5
+        },
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 113.8,
+          "grpo_act": 437.5,
+          "delta": 323.8
+        },
+        {
+          "layer": 23,
+          "feature": 197,
+          "base_act": 254.0,
+          "grpo_act": 475.5,
+          "delta": 221.5
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 98.5,
+          "grpo_act": 303.2,
+          "delta": 204.8
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 30.4,
+          "grpo_act": 202.4,
+          "delta": 172.0
+        },
+        {
+          "layer": 14,
+          "feature": 351,
+          "base_act": 253.2,
+          "grpo_act": 385.0,
+          "delta": 131.8
+        },
+        {
+          "layer": 13,
+          "feature": 1338,
+          "base_act": 68.4,
+          "grpo_act": 178.6,
+          "delta": 110.2
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 28.8,
+          "grpo_act": 111.8,
+          "delta": 83.0
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 64.2,
+          "grpo_act": 144.4,
+          "delta": 80.1
+        },
+        {
+          "layer": 9,
+          "feature": 316,
+          "base_act": 27.8,
+          "grpo_act": 78.2,
+          "delta": 50.5
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 12.2,
+          "grpo_act": 59.8,
+          "delta": 47.5
+        },
+        {
+          "layer": 11,
+          "feature": 619,
+          "base_act": 29.8,
+          "grpo_act": 73.6,
+          "delta": 43.9
+        },
+        {
+          "layer": 8,
+          "feature": 2358,
+          "base_act": 70.6,
+          "grpo_act": 108.5,
+          "delta": 37.9
+        },
+        {
+          "layer": 9,
+          "feature": 28,
+          "base_act": 40.2,
+          "grpo_act": 74.2,
+          "delta": 34.0
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 49.8,
+          "grpo_act": 81.9,
+          "delta": 32.0
+        },
+        {
+          "layer": 11,
+          "feature": 721,
+          "base_act": 26.5,
+          "grpo_act": 57.6,
+          "delta": 31.2
+        },
+        {
+          "layer": 11,
+          "feature": 4979,
+          "base_act": 19.5,
+          "grpo_act": 47.0,
+          "delta": 27.5
+        },
+        {
+          "layer": 6,
+          "feature": 1,
+          "base_act": 34.7,
+          "grpo_act": 56.6,
+          "delta": 21.9
+        },
+        {
+          "layer": 13,
+          "feature": 8449,
+          "base_act": 24.9,
+          "grpo_act": 43.8,
+          "delta": 18.9
+        },
+        {
+          "layer": 6,
+          "feature": 468,
+          "base_act": 14.9,
+          "grpo_act": 32.7,
+          "delta": 17.7
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 25,
+          "feature": 216,
+          "base_act": 824.0,
+          "grpo_act": 275.0,
+          "delta": -549.0
+        },
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 425.5,
+          "grpo_act": 43.0,
+          "delta": -382.5
+        },
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 337.2,
+          "grpo_act": 0.0,
+          "delta": -337.2
+        },
+        {
+          "layer": 24,
+          "feature": 1460,
+          "base_act": 251.1,
+          "grpo_act": 0.0,
+          "delta": -251.1
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 232.0,
+          "grpo_act": 0.0,
+          "delta": -232.0
+        },
+        {
+          "layer": 19,
+          "feature": 784,
+          "base_act": 149.5,
+          "grpo_act": 0.0,
+          "delta": -149.5
+        },
+        {
+          "layer": 11,
+          "feature": 118,
+          "base_act": 139.5,
+          "grpo_act": 0.0,
+          "delta": -139.5
+        },
+        {
+          "layer": 13,
+          "feature": 615,
+          "base_act": 171.9,
+          "grpo_act": 35.7,
+          "delta": -136.2
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 154.5,
+          "grpo_act": 18.8,
+          "delta": -135.8
+        },
+        {
+          "layer": 9,
+          "feature": 134,
+          "base_act": 134.9,
+          "grpo_act": 0.0,
+          "delta": -134.9
+        },
+        {
+          "layer": 14,
+          "feature": 716,
+          "base_act": 195.0,
+          "grpo_act": 76.5,
+          "delta": -118.5
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 113.8,
+          "grpo_act": 0.0,
+          "delta": -113.8
+        },
+        {
+          "layer": 24,
+          "feature": 4655,
+          "base_act": 113.4,
+          "grpo_act": 0.0,
+          "delta": -113.4
+        },
+        {
+          "layer": 14,
+          "feature": 429,
+          "base_act": 137.8,
+          "grpo_act": 25.6,
+          "delta": -112.1
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 104.2,
+          "grpo_act": 0.0,
+          "delta": -104.2
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 138.0,
+          "grpo_act": 34.0,
+          "delta": -104.0
+        },
+        {
+          "layer": 13,
+          "feature": 3398,
+          "base_act": 98.8,
+          "grpo_act": 0.0,
+          "delta": -98.8
+        },
+        {
+          "layer": 11,
+          "feature": 496,
+          "base_act": 191.5,
+          "grpo_act": 92.8,
+          "delta": -98.7
+        },
+        {
+          "layer": 13,
+          "feature": 2706,
+          "base_act": 93.8,
+          "grpo_act": 0.0,
+          "delta": -93.8
+        },
+        {
+          "layer": 17,
+          "feature": 5488,
+          "base_act": 89.2,
+          "grpo_act": 0.0,
+          "delta": -89.2
+        }
+      ],
+      "total_new": 41,
+      "total_amplified": 21,
+      "total_suppressed": 63
+    },
+    {
+      "prompt_idx": 2,
+      "n_tokens": 148,
+      "question": "What is the precise lattice constant of the semiconductor Gallium Arsenide (GaAs) at a temperature o",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 0.0,
+          "grpo_act": 447.5,
+          "delta": 447.5
+        },
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 0.0,
+          "grpo_act": 297.0,
+          "delta": 297.0
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 0.0,
+          "grpo_act": 238.8,
+          "delta": 238.8
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 0.0,
+          "grpo_act": 153.6,
+          "delta": 153.6
+        },
+        {
+          "layer": 16,
+          "feature": 9419,
+          "base_act": 0.0,
+          "grpo_act": 146.0,
+          "delta": 146.0
+        },
+        {
+          "layer": 13,
+          "feature": 1338,
+          "base_act": 0.0,
+          "grpo_act": 119.6,
+          "delta": 119.6
+        },
+        {
+          "layer": 7,
+          "feature": 496,
+          "base_act": 0.0,
+          "grpo_act": 114.4,
+          "delta": 114.4
+        },
+        {
+          "layer": 16,
+          "feature": 5206,
+          "base_act": 0.0,
+          "grpo_act": 107.0,
+          "delta": 107.0
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 93.4,
+          "delta": 93.4
+        },
+        {
+          "layer": 18,
+          "feature": 3750,
+          "base_act": 0.0,
+          "grpo_act": 90.0,
+          "delta": 90.0
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 76.9,
+          "delta": 76.9
+        },
+        {
+          "layer": 13,
+          "feature": 6286,
+          "base_act": 0.0,
+          "grpo_act": 64.3,
+          "delta": 64.3
+        },
+        {
+          "layer": 13,
+          "feature": 6261,
+          "base_act": 0.0,
+          "grpo_act": 61.4,
+          "delta": 61.4
+        },
+        {
+          "layer": 17,
+          "feature": 3101,
+          "base_act": 0.0,
+          "grpo_act": 53.5,
+          "delta": 53.5
+        },
+        {
+          "layer": 14,
+          "feature": 3307,
+          "base_act": 0.0,
+          "grpo_act": 52.5,
+          "delta": 52.5
+        },
+        {
+          "layer": 13,
+          "feature": 259,
+          "base_act": 0.0,
+          "grpo_act": 49.9,
+          "delta": 49.9
+        },
+        {
+          "layer": 13,
+          "feature": 247,
+          "base_act": 0.0,
+          "grpo_act": 48.6,
+          "delta": 48.6
+        },
+        {
+          "layer": 16,
+          "feature": 391,
+          "base_act": 0.0,
+          "grpo_act": 48.5,
+          "delta": 48.5
+        },
+        {
+          "layer": 11,
+          "feature": 721,
+          "base_act": 0.0,
+          "grpo_act": 47.2,
+          "delta": 47.2
+        },
+        {
+          "layer": 12,
+          "feature": 6888,
+          "base_act": 0.0,
+          "grpo_act": 47.1,
+          "delta": 47.1
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 14,
+          "feature": 351,
+          "base_act": 144.5,
+          "grpo_act": 333.2,
+          "delta": 188.8
+        },
+        {
+          "layer": 23,
+          "feature": 197,
+          "base_act": 229.0,
+          "grpo_act": 416.5,
+          "delta": 187.5
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 32.0,
+          "grpo_act": 132.6,
+          "delta": 100.6
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 25.0,
+          "grpo_act": 114.6,
+          "delta": 89.6
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 36.5,
+          "grpo_act": 102.2,
+          "delta": 65.8
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 46.0,
+          "grpo_act": 106.2,
+          "delta": 60.3
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 36.5,
+          "grpo_act": 87.4,
+          "delta": 50.9
+        },
+        {
+          "layer": 13,
+          "feature": 645,
+          "base_act": 68.8,
+          "grpo_act": 111.8,
+          "delta": 43.0
+        },
+        {
+          "layer": 8,
+          "feature": 2358,
+          "base_act": 51.9,
+          "grpo_act": 88.9,
+          "delta": 37.0
+        },
+        {
+          "layer": 11,
+          "feature": 619,
+          "base_act": 19.8,
+          "grpo_act": 52.4,
+          "delta": 32.6
+        },
+        {
+          "layer": 9,
+          "feature": 316,
+          "base_act": 42.2,
+          "grpo_act": 70.8,
+          "delta": 28.5
+        },
+        {
+          "layer": 12,
+          "feature": 713,
+          "base_act": 28.2,
+          "grpo_act": 55.1,
+          "delta": 26.9
+        },
+        {
+          "layer": 9,
+          "feature": 81,
+          "base_act": 19.6,
+          "grpo_act": 44.6,
+          "delta": 25.1
+        },
+        {
+          "layer": 6,
+          "feature": 1,
+          "base_act": 26.3,
+          "grpo_act": 50.1,
+          "delta": 23.8
+        },
+        {
+          "layer": 10,
+          "feature": 3655,
+          "base_act": 38.2,
+          "grpo_act": 61.1,
+          "delta": 22.9
+        },
+        {
+          "layer": 12,
+          "feature": 221,
+          "base_act": 38.0,
+          "grpo_act": 58.6,
+          "delta": 20.6
+        },
+        {
+          "layer": 6,
+          "feature": 468,
+          "base_act": 16.2,
+          "grpo_act": 31.7,
+          "delta": 15.5
+        },
+        {
+          "layer": 10,
+          "feature": 141,
+          "base_act": 21.5,
+          "grpo_act": 35.7,
+          "delta": 14.2
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 335.8,
+          "grpo_act": 0.0,
+          "delta": -335.8
+        },
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 472.5,
+          "grpo_act": 157.5,
+          "delta": -315.0
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 233.0,
+          "grpo_act": 0.0,
+          "delta": -233.0
+        },
+        {
+          "layer": 17,
+          "feature": 5488,
+          "base_act": 224.0,
+          "grpo_act": 0.0,
+          "delta": -224.0
+        },
+        {
+          "layer": 16,
+          "feature": 122,
+          "base_act": 190.0,
+          "grpo_act": 0.0,
+          "delta": -190.0
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 189.5,
+          "grpo_act": 0.0,
+          "delta": -189.5
+        },
+        {
+          "layer": 17,
+          "feature": 2000,
+          "base_act": 181.6,
+          "grpo_act": 0.0,
+          "delta": -181.6
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 147.2,
+          "grpo_act": 0.0,
+          "delta": -147.2
+        },
+        {
+          "layer": 11,
+          "feature": 118,
+          "base_act": 134.0,
+          "grpo_act": 0.0,
+          "delta": -134.0
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 191.0,
+          "grpo_act": 67.5,
+          "delta": -123.5
+        },
+        {
+          "layer": 14,
+          "feature": 88,
+          "base_act": 115.9,
+          "grpo_act": 0.0,
+          "delta": -115.9
+        },
+        {
+          "layer": 13,
+          "feature": 2706,
+          "base_act": 115.0,
+          "grpo_act": 0.0,
+          "delta": -115.0
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 154.2,
+          "grpo_act": 45.2,
+          "delta": -109.0
+        },
+        {
+          "layer": 14,
+          "feature": 558,
+          "base_act": 163.0,
+          "grpo_act": 54.0,
+          "delta": -109.0
+        },
+        {
+          "layer": 15,
+          "feature": 8042,
+          "base_act": 105.2,
+          "grpo_act": 0.0,
+          "delta": -105.2
+        },
+        {
+          "layer": 14,
+          "feature": 429,
+          "base_act": 142.8,
+          "grpo_act": 41.8,
+          "delta": -101.0
+        },
+        {
+          "layer": 13,
+          "feature": 615,
+          "base_act": 163.6,
+          "grpo_act": 62.7,
+          "delta": -100.9
+        },
+        {
+          "layer": 14,
+          "feature": 3252,
+          "base_act": 89.2,
+          "grpo_act": 0.0,
+          "delta": -89.2
+        },
+        {
+          "layer": 11,
+          "feature": 360,
+          "base_act": 130.1,
+          "grpo_act": 48.7,
+          "delta": -81.5
+        },
+        {
+          "layer": 14,
+          "feature": 278,
+          "base_act": 81.2,
+          "grpo_act": 0.0,
+          "delta": -81.2
+        }
+      ],
+      "total_new": 39,
+      "total_amplified": 18,
+      "total_suppressed": 56
+    },
+    {
+      "prompt_idx": 3,
+      "n_tokens": 140,
+      "question": "Based on the high-resolution multibeam sonar mapping conducted during the Five Deeps Expedition and ",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 0.0,
+          "grpo_act": 336.0,
+          "delta": 336.0
+        },
+        {
+          "layer": 25,
+          "feature": 7546,
+          "base_act": 0.0,
+          "grpo_act": 259.0,
+          "delta": 259.0
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 0.0,
+          "grpo_act": 146.9,
+          "delta": 146.9
+        },
+        {
+          "layer": 7,
+          "feature": 206,
+          "base_act": 0.0,
+          "grpo_act": 138.5,
+          "delta": 138.5
+        },
+        {
+          "layer": 16,
+          "feature": 9419,
+          "base_act": 0.0,
+          "grpo_act": 110.0,
+          "delta": 110.0
+        },
+        {
+          "layer": 14,
+          "feature": 2718,
+          "base_act": 0.0,
+          "grpo_act": 75.6,
+          "delta": 75.6
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 0.0,
+          "grpo_act": 69.9,
+          "delta": 69.9
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 0.0,
+          "grpo_act": 69.6,
+          "delta": 69.6
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 63.7,
+          "delta": 63.7
+        },
+        {
+          "layer": 14,
+          "feature": 2491,
+          "base_act": 0.0,
+          "grpo_act": 61.2,
+          "delta": 61.2
+        },
+        {
+          "layer": 12,
+          "feature": 9853,
+          "base_act": 0.0,
+          "grpo_act": 53.2,
+          "delta": 53.2
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 49.4,
+          "delta": 49.4
+        },
+        {
+          "layer": 11,
+          "feature": 4,
+          "base_act": 0.0,
+          "grpo_act": 45.8,
+          "delta": 45.8
+        },
+        {
+          "layer": 13,
+          "feature": 298,
+          "base_act": 0.0,
+          "grpo_act": 45.2,
+          "delta": 45.2
+        },
+        {
+          "layer": 13,
+          "feature": 813,
+          "base_act": 0.0,
+          "grpo_act": 45.0,
+          "delta": 45.0
+        },
+        {
+          "layer": 12,
+          "feature": 4105,
+          "base_act": 0.0,
+          "grpo_act": 43.2,
+          "delta": 43.2
+        },
+        {
+          "layer": 13,
+          "feature": 955,
+          "base_act": 0.0,
+          "grpo_act": 43.1,
+          "delta": 43.1
+        },
+        {
+          "layer": 13,
+          "feature": 6286,
+          "base_act": 0.0,
+          "grpo_act": 41.1,
+          "delta": 41.1
+        },
+        {
+          "layer": 13,
+          "feature": 5064,
+          "base_act": 0.0,
+          "grpo_act": 35.0,
+          "delta": 35.0
+        },
+        {
+          "layer": 13,
+          "feature": 7489,
+          "base_act": 0.0,
+          "grpo_act": 34.1,
+          "delta": 34.1
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 63.0,
+          "grpo_act": 525.5,
+          "delta": 462.5
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 85.2,
+          "grpo_act": 271.8,
+          "delta": 186.5
+        },
+        {
+          "layer": 14,
+          "feature": 351,
+          "base_act": 162.2,
+          "grpo_act": 310.8,
+          "delta": 148.5
+        },
+        {
+          "layer": 9,
+          "feature": 258,
+          "base_act": 139.5,
+          "grpo_act": 217.0,
+          "delta": 77.5
+        },
+        {
+          "layer": 15,
+          "feature": 219,
+          "base_act": 37.2,
+          "grpo_act": 113.2,
+          "delta": 76.0
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 17.5,
+          "grpo_act": 90.2,
+          "delta": 72.8
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 30.1,
+          "grpo_act": 98.4,
+          "delta": 68.2
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 43.2,
+          "grpo_act": 110.9,
+          "delta": 67.6
+        },
+        {
+          "layer": 13,
+          "feature": 1338,
+          "base_act": 72.1,
+          "grpo_act": 134.4,
+          "delta": 62.2
+        },
+        {
+          "layer": 8,
+          "feature": 2358,
+          "base_act": 79.5,
+          "grpo_act": 122.2,
+          "delta": 42.8
+        },
+        {
+          "layer": 11,
+          "feature": 721,
+          "base_act": 33.0,
+          "grpo_act": 73.7,
+          "delta": 40.7
+        },
+        {
+          "layer": 11,
+          "feature": 619,
+          "base_act": 33.5,
+          "grpo_act": 73.9,
+          "delta": 40.4
+        },
+        {
+          "layer": 9,
+          "feature": 28,
+          "base_act": 24.6,
+          "grpo_act": 58.4,
+          "delta": 33.8
+        },
+        {
+          "layer": 9,
+          "feature": 316,
+          "base_act": 36.0,
+          "grpo_act": 65.8,
+          "delta": 29.8
+        },
+        {
+          "layer": 13,
+          "feature": 6303,
+          "base_act": 28.5,
+          "grpo_act": 55.2,
+          "delta": 26.8
+        },
+        {
+          "layer": 10,
+          "feature": 3655,
+          "base_act": 36.5,
+          "grpo_act": 62.6,
+          "delta": 26.1
+        },
+        {
+          "layer": 12,
+          "feature": 221,
+          "base_act": 13.1,
+          "grpo_act": 35.5,
+          "delta": 22.4
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 25,
+          "feature": 216,
+          "base_act": 653.0,
+          "grpo_act": 263.0,
+          "delta": -390.0
+        },
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 287.2,
+          "grpo_act": 0.0,
+          "delta": -287.2
+        },
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 407.5,
+          "grpo_act": 143.0,
+          "delta": -264.5
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 194.0,
+          "grpo_act": 0.0,
+          "delta": -194.0
+        },
+        {
+          "layer": 24,
+          "feature": 1460,
+          "base_act": 261.5,
+          "grpo_act": 116.9,
+          "delta": -144.6
+        },
+        {
+          "layer": 15,
+          "feature": 2158,
+          "base_act": 142.0,
+          "grpo_act": 0.0,
+          "delta": -142.0
+        },
+        {
+          "layer": 17,
+          "feature": 2000,
+          "base_act": 138.4,
+          "grpo_act": 0.0,
+          "delta": -138.4
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 136.8,
+          "grpo_act": 0.0,
+          "delta": -136.8
+        },
+        {
+          "layer": 11,
+          "feature": 118,
+          "base_act": 127.9,
+          "grpo_act": 0.0,
+          "delta": -127.9
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 155.2,
+          "grpo_act": 32.0,
+          "delta": -123.2
+        },
+        {
+          "layer": 9,
+          "feature": 134,
+          "base_act": 122.8,
+          "grpo_act": 0.0,
+          "delta": -122.8
+        },
+        {
+          "layer": 15,
+          "feature": 1182,
+          "base_act": 116.0,
+          "grpo_act": 0.0,
+          "delta": -116.0
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 115.2,
+          "grpo_act": 0.0,
+          "delta": -115.2
+        },
+        {
+          "layer": 14,
+          "feature": 88,
+          "base_act": 111.9,
+          "grpo_act": 0.0,
+          "delta": -111.9
+        },
+        {
+          "layer": 15,
+          "feature": 8042,
+          "base_act": 111.0,
+          "grpo_act": 0.0,
+          "delta": -111.0
+        },
+        {
+          "layer": 24,
+          "feature": 4655,
+          "base_act": 105.6,
+          "grpo_act": 0.0,
+          "delta": -105.6
+        },
+        {
+          "layer": 11,
+          "feature": 2130,
+          "base_act": 104.6,
+          "grpo_act": 0.0,
+          "delta": -104.6
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 159.8,
+          "grpo_act": 56.6,
+          "delta": -103.1
+        },
+        {
+          "layer": 14,
+          "feature": 429,
+          "base_act": 174.0,
+          "grpo_act": 73.0,
+          "delta": -101.0
+        },
+        {
+          "layer": 17,
+          "feature": 5488,
+          "base_act": 95.2,
+          "grpo_act": 0.0,
+          "delta": -95.2
+        }
+      ],
+      "total_new": 38,
+      "total_amplified": 17,
+      "total_suppressed": 62
+    },
+    {
+      "prompt_idx": 4,
+      "n_tokens": 135,
+      "question": "Which specific protein serves as the dedicated translation elongation factor for selenocysteine-tRNA",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 18,
+          "feature": 1023,
+          "base_act": 0.0,
+          "grpo_act": 356.5,
+          "delta": 356.5
+        },
+        {
+          "layer": 18,
+          "feature": 2458,
+          "base_act": 0.0,
+          "grpo_act": 263.5,
+          "delta": 263.5
+        },
+        {
+          "layer": 19,
+          "feature": 3863,
+          "base_act": 0.0,
+          "grpo_act": 215.0,
+          "delta": 215.0
+        },
+        {
+          "layer": 20,
+          "feature": 728,
+          "base_act": 0.0,
+          "grpo_act": 199.0,
+          "delta": 199.0
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 147.0,
+          "delta": 147.0
+        },
+        {
+          "layer": 7,
+          "feature": 206,
+          "base_act": 0.0,
+          "grpo_act": 144.0,
+          "delta": 144.0
+        },
+        {
+          "layer": 14,
+          "feature": 2491,
+          "base_act": 0.0,
+          "grpo_act": 134.0,
+          "delta": 134.0
+        },
+        {
+          "layer": 16,
+          "feature": 5206,
+          "base_act": 0.0,
+          "grpo_act": 119.0,
+          "delta": 119.0
+        },
+        {
+          "layer": 19,
+          "feature": 3427,
+          "base_act": 0.0,
+          "grpo_act": 76.8,
+          "delta": 76.8
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 74.8,
+          "delta": 74.8
+        },
+        {
+          "layer": 16,
+          "feature": 391,
+          "base_act": 0.0,
+          "grpo_act": 72.2,
+          "delta": 72.2
+        },
+        {
+          "layer": 13,
+          "feature": 955,
+          "base_act": 0.0,
+          "grpo_act": 69.6,
+          "delta": 69.6
+        },
+        {
+          "layer": 13,
+          "feature": 247,
+          "base_act": 0.0,
+          "grpo_act": 67.2,
+          "delta": 67.2
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 0.0,
+          "grpo_act": 66.6,
+          "delta": 66.6
+        },
+        {
+          "layer": 15,
+          "feature": 8266,
+          "base_act": 0.0,
+          "grpo_act": 65.2,
+          "delta": 65.2
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 0.0,
+          "grpo_act": 60.8,
+          "delta": 60.8
+        },
+        {
+          "layer": 13,
+          "feature": 9006,
+          "base_act": 0.0,
+          "grpo_act": 60.5,
+          "delta": 60.5
+        },
+        {
+          "layer": 14,
+          "feature": 1619,
+          "base_act": 0.0,
+          "grpo_act": 60.0,
+          "delta": 60.0
+        },
+        {
+          "layer": 13,
+          "feature": 813,
+          "base_act": 0.0,
+          "grpo_act": 56.2,
+          "delta": 56.2
+        },
+        {
+          "layer": 16,
+          "feature": 2758,
+          "base_act": 0.0,
+          "grpo_act": 56.2,
+          "delta": 56.2
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 242.0,
+          "grpo_act": 766.0,
+          "delta": 524.0
+        },
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 113.0,
+          "grpo_act": 539.0,
+          "delta": 426.0
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 117.5,
+          "grpo_act": 328.2,
+          "delta": 210.8
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 57.1,
+          "grpo_act": 238.4,
+          "delta": 181.2
+        },
+        {
+          "layer": 14,
+          "feature": 351,
+          "base_act": 248.2,
+          "grpo_act": 414.0,
+          "delta": 165.8
+        },
+        {
+          "layer": 23,
+          "feature": 197,
+          "base_act": 257.5,
+          "grpo_act": 421.5,
+          "delta": 164.0
+        },
+        {
+          "layer": 13,
+          "feature": 1338,
+          "base_act": 83.1,
+          "grpo_act": 204.4,
+          "delta": 121.2
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 12.9,
+          "grpo_act": 106.5,
+          "delta": 93.6
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 64.1,
+          "grpo_act": 144.4,
+          "delta": 80.2
+        },
+        {
+          "layer": 9,
+          "feature": 258,
+          "base_act": 145.5,
+          "grpo_act": 218.5,
+          "delta": 73.0
+        },
+        {
+          "layer": 8,
+          "feature": 2358,
+          "base_act": 74.6,
+          "grpo_act": 120.2,
+          "delta": 45.6
+        },
+        {
+          "layer": 9,
+          "feature": 316,
+          "base_act": 39.8,
+          "grpo_act": 83.8,
+          "delta": 44.0
+        },
+        {
+          "layer": 9,
+          "feature": 28,
+          "base_act": 28.9,
+          "grpo_act": 67.9,
+          "delta": 39.0
+        },
+        {
+          "layer": 12,
+          "feature": 713,
+          "base_act": 44.9,
+          "grpo_act": 76.2,
+          "delta": 31.4
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 56.5,
+          "grpo_act": 87.2,
+          "delta": 30.7
+        },
+        {
+          "layer": 11,
+          "feature": 619,
+          "base_act": 45.7,
+          "grpo_act": 74.8,
+          "delta": 29.1
+        },
+        {
+          "layer": 10,
+          "feature": 141,
+          "base_act": 16.2,
+          "grpo_act": 29.8,
+          "delta": 13.6
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 25,
+          "feature": 216,
+          "base_act": 548.0,
+          "grpo_act": 0.0,
+          "delta": -548.0
+        },
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 438.5,
+          "grpo_act": 0.0,
+          "delta": -438.5
+        },
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 327.2,
+          "grpo_act": 0.0,
+          "delta": -327.2
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 261.0,
+          "grpo_act": 0.0,
+          "delta": -261.0
+        },
+        {
+          "layer": 24,
+          "feature": 1460,
+          "base_act": 176.9,
+          "grpo_act": 0.0,
+          "delta": -176.9
+        },
+        {
+          "layer": 19,
+          "feature": 784,
+          "base_act": 151.4,
+          "grpo_act": 0.0,
+          "delta": -151.4
+        },
+        {
+          "layer": 14,
+          "feature": 716,
+          "base_act": 239.0,
+          "grpo_act": 100.0,
+          "delta": -139.0
+        },
+        {
+          "layer": 14,
+          "feature": 8428,
+          "base_act": 197.2,
+          "grpo_act": 65.1,
+          "delta": -132.1
+        },
+        {
+          "layer": 14,
+          "feature": 558,
+          "base_act": 131.5,
+          "grpo_act": 0.0,
+          "delta": -131.5
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 127.0,
+          "grpo_act": 0.0,
+          "delta": -127.0
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 142.8,
+          "grpo_act": 20.8,
+          "delta": -122.0
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 116.2,
+          "grpo_act": 0.0,
+          "delta": -116.2
+        },
+        {
+          "layer": 14,
+          "feature": 429,
+          "base_act": 140.5,
+          "grpo_act": 24.8,
+          "delta": -115.8
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 128.8,
+          "grpo_act": 20.2,
+          "delta": -108.5
+        },
+        {
+          "layer": 17,
+          "feature": 5488,
+          "base_act": 102.8,
+          "grpo_act": 0.0,
+          "delta": -102.8
+        },
+        {
+          "layer": 14,
+          "feature": 278,
+          "base_act": 98.8,
+          "grpo_act": 0.0,
+          "delta": -98.8
+        },
+        {
+          "layer": 13,
+          "feature": 615,
+          "base_act": 151.9,
+          "grpo_act": 58.4,
+          "delta": -93.4
+        },
+        {
+          "layer": 14,
+          "feature": 1839,
+          "base_act": 90.2,
+          "grpo_act": 0.0,
+          "delta": -90.2
+        },
+        {
+          "layer": 15,
+          "feature": 1182,
+          "base_act": 88.9,
+          "grpo_act": 0.0,
+          "delta": -88.9
+        },
+        {
+          "layer": 11,
+          "feature": 360,
+          "base_act": 86.2,
+          "grpo_act": 0.0,
+          "delta": -86.2
+        }
+      ],
+      "total_new": 57,
+      "total_amplified": 17,
+      "total_suppressed": 58
+    },
+    {
+      "prompt_idx": 5,
+      "n_tokens": 148,
+      "question": "Which explorer became the first person to reach the North Pole in a solo and entirely unsupported ex",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 18,
+          "feature": 1023,
+          "base_act": 0.0,
+          "grpo_act": 186.5,
+          "delta": 186.5
+        },
+        {
+          "layer": 16,
+          "feature": 391,
+          "base_act": 0.0,
+          "grpo_act": 143.8,
+          "delta": 143.8
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 121.1,
+          "delta": 121.1
+        },
+        {
+          "layer": 19,
+          "feature": 3863,
+          "base_act": 0.0,
+          "grpo_act": 104.5,
+          "delta": 104.5
+        },
+        {
+          "layer": 16,
+          "feature": 9419,
+          "base_act": 0.0,
+          "grpo_act": 96.5,
+          "delta": 96.5
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 0.0,
+          "grpo_act": 95.0,
+          "delta": 95.0
+        },
+        {
+          "layer": 18,
+          "feature": 2458,
+          "base_act": 0.0,
+          "grpo_act": 92.0,
+          "delta": 92.0
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 0.0,
+          "grpo_act": 88.5,
+          "delta": 88.5
+        },
+        {
+          "layer": 14,
+          "feature": 2491,
+          "base_act": 0.0,
+          "grpo_act": 88.5,
+          "delta": 88.5
+        },
+        {
+          "layer": 13,
+          "feature": 7489,
+          "base_act": 0.0,
+          "grpo_act": 81.1,
+          "delta": 81.1
+        },
+        {
+          "layer": 15,
+          "feature": 8266,
+          "base_act": 0.0,
+          "grpo_act": 77.9,
+          "delta": 77.9
+        },
+        {
+          "layer": 7,
+          "feature": 7972,
+          "base_act": 0.0,
+          "grpo_act": 73.5,
+          "delta": 73.5
+        },
+        {
+          "layer": 15,
+          "feature": 219,
+          "base_act": 0.0,
+          "grpo_act": 62.5,
+          "delta": 62.5
+        },
+        {
+          "layer": 9,
+          "feature": 316,
+          "base_act": 0.0,
+          "grpo_act": 56.5,
+          "delta": 56.5
+        },
+        {
+          "layer": 14,
+          "feature": 2718,
+          "base_act": 0.0,
+          "grpo_act": 55.4,
+          "delta": 55.4
+        },
+        {
+          "layer": 14,
+          "feature": 4747,
+          "base_act": 0.0,
+          "grpo_act": 53.9,
+          "delta": 53.9
+        },
+        {
+          "layer": 13,
+          "feature": 8449,
+          "base_act": 0.0,
+          "grpo_act": 52.0,
+          "delta": 52.0
+        },
+        {
+          "layer": 20,
+          "feature": 138,
+          "base_act": 0.0,
+          "grpo_act": 50.2,
+          "delta": 50.2
+        },
+        {
+          "layer": 13,
+          "feature": 813,
+          "base_act": 0.0,
+          "grpo_act": 45.5,
+          "delta": 45.5
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 40.5,
+          "delta": 40.5
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 253.2,
+          "grpo_act": 742.5,
+          "delta": 489.2
+        },
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 144.0,
+          "grpo_act": 560.5,
+          "delta": 416.5
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 134.2,
+          "grpo_act": 333.8,
+          "delta": 199.5
+        },
+        {
+          "layer": 23,
+          "feature": 197,
+          "base_act": 271.5,
+          "grpo_act": 464.5,
+          "delta": 193.0
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 54.5,
+          "grpo_act": 205.6,
+          "delta": 151.1
+        },
+        {
+          "layer": 14,
+          "feature": 351,
+          "base_act": 249.0,
+          "grpo_act": 399.5,
+          "delta": 150.5
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 63.5,
+          "grpo_act": 152.1,
+          "delta": 88.6
+        },
+        {
+          "layer": 9,
+          "feature": 258,
+          "base_act": 135.5,
+          "grpo_act": 224.0,
+          "delta": 88.5
+        },
+        {
+          "layer": 13,
+          "feature": 1338,
+          "base_act": 102.6,
+          "grpo_act": 186.4,
+          "delta": 83.8
+        },
+        {
+          "layer": 13,
+          "feature": 955,
+          "base_act": 14.9,
+          "grpo_act": 81.6,
+          "delta": 66.8
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 20.1,
+          "grpo_act": 77.2,
+          "delta": 57.2
+        },
+        {
+          "layer": 11,
+          "feature": 619,
+          "base_act": 16.1,
+          "grpo_act": 67.2,
+          "delta": 51.1
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 33.8,
+          "grpo_act": 76.1,
+          "delta": 42.3
+        },
+        {
+          "layer": 13,
+          "feature": 4152,
+          "base_act": 19.3,
+          "grpo_act": 57.5,
+          "delta": 38.2
+        },
+        {
+          "layer": 11,
+          "feature": 721,
+          "base_act": 35.1,
+          "grpo_act": 73.0,
+          "delta": 37.9
+        },
+        {
+          "layer": 9,
+          "feature": 28,
+          "base_act": 22.6,
+          "grpo_act": 52.9,
+          "delta": 30.2
+        },
+        {
+          "layer": 6,
+          "feature": 1,
+          "base_act": 39.8,
+          "grpo_act": 60.0,
+          "delta": 20.2
+        },
+        {
+          "layer": 10,
+          "feature": 141,
+          "base_act": 19.2,
+          "grpo_act": 39.4,
+          "delta": 20.2
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 25,
+          "feature": 216,
+          "base_act": 689.0,
+          "grpo_act": 0.0,
+          "delta": -689.0
+        },
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 441.5,
+          "grpo_act": 21.5,
+          "delta": -420.0
+        },
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 302.8,
+          "grpo_act": 0.0,
+          "delta": -302.8
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 249.5,
+          "grpo_act": 0.0,
+          "delta": -249.5
+        },
+        {
+          "layer": 24,
+          "feature": 1460,
+          "base_act": 248.1,
+          "grpo_act": 0.0,
+          "delta": -248.1
+        },
+        {
+          "layer": 19,
+          "feature": 784,
+          "base_act": 154.1,
+          "grpo_act": 0.0,
+          "delta": -154.1
+        },
+        {
+          "layer": 9,
+          "feature": 134,
+          "base_act": 128.4,
+          "grpo_act": 0.0,
+          "delta": -128.4
+        },
+        {
+          "layer": 11,
+          "feature": 118,
+          "base_act": 125.7,
+          "grpo_act": 0.0,
+          "delta": -125.7
+        },
+        {
+          "layer": 14,
+          "feature": 429,
+          "base_act": 155.2,
+          "grpo_act": 37.9,
+          "delta": -117.4
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 148.2,
+          "grpo_act": 34.6,
+          "delta": -113.6
+        },
+        {
+          "layer": 13,
+          "feature": 615,
+          "base_act": 142.9,
+          "grpo_act": 36.2,
+          "delta": -106.7
+        },
+        {
+          "layer": 14,
+          "feature": 278,
+          "base_act": 105.8,
+          "grpo_act": 0.0,
+          "delta": -105.8
+        },
+        {
+          "layer": 14,
+          "feature": 716,
+          "base_act": 208.8,
+          "grpo_act": 103.8,
+          "delta": -105.0
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 162.5,
+          "grpo_act": 58.2,
+          "delta": -104.2
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 104.0,
+          "grpo_act": 0.0,
+          "delta": -104.0
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 99.5,
+          "grpo_act": 0.0,
+          "delta": -99.5
+        },
+        {
+          "layer": 24,
+          "feature": 4655,
+          "base_act": 91.4,
+          "grpo_act": 0.0,
+          "delta": -91.4
+        },
+        {
+          "layer": 14,
+          "feature": 1839,
+          "base_act": 81.5,
+          "grpo_act": 0.0,
+          "delta": -81.5
+        },
+        {
+          "layer": 11,
+          "feature": 2130,
+          "base_act": 78.1,
+          "grpo_act": 0.0,
+          "delta": -78.1
+        },
+        {
+          "layer": 14,
+          "feature": 88,
+          "base_act": 76.9,
+          "grpo_act": 0.0,
+          "delta": -76.9
+        }
+      ],
+      "total_new": 45,
+      "total_amplified": 18,
+      "total_suppressed": 57
+    },
+    {
+      "prompt_idx": 6,
+      "n_tokens": 144,
+      "question": "Which Soviet child psychiatrist is credited with publishing the first detailed clinical description ",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 18,
+          "feature": 1023,
+          "base_act": 0.0,
+          "grpo_act": 271.5,
+          "delta": 271.5
+        },
+        {
+          "layer": 18,
+          "feature": 2458,
+          "base_act": 0.0,
+          "grpo_act": 244.5,
+          "delta": 244.5
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 0.0,
+          "grpo_act": 218.6,
+          "delta": 218.6
+        },
+        {
+          "layer": 16,
+          "feature": 5206,
+          "base_act": 0.0,
+          "grpo_act": 193.0,
+          "delta": 193.0
+        },
+        {
+          "layer": 20,
+          "feature": 728,
+          "base_act": 0.0,
+          "grpo_act": 182.5,
+          "delta": 182.5
+        },
+        {
+          "layer": 19,
+          "feature": 3863,
+          "base_act": 0.0,
+          "grpo_act": 155.5,
+          "delta": 155.5
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 136.0,
+          "delta": 136.0
+        },
+        {
+          "layer": 16,
+          "feature": 9419,
+          "base_act": 0.0,
+          "grpo_act": 130.0,
+          "delta": 130.0
+        },
+        {
+          "layer": 16,
+          "feature": 2758,
+          "base_act": 0.0,
+          "grpo_act": 112.8,
+          "delta": 112.8
+        },
+        {
+          "layer": 13,
+          "feature": 813,
+          "base_act": 0.0,
+          "grpo_act": 103.5,
+          "delta": 103.5
+        },
+        {
+          "layer": 16,
+          "feature": 391,
+          "base_act": 0.0,
+          "grpo_act": 92.8,
+          "delta": 92.8
+        },
+        {
+          "layer": 14,
+          "feature": 2491,
+          "base_act": 0.0,
+          "grpo_act": 82.2,
+          "delta": 82.2
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 0.0,
+          "grpo_act": 67.4,
+          "delta": 67.4
+        },
+        {
+          "layer": 13,
+          "feature": 7489,
+          "base_act": 0.0,
+          "grpo_act": 67.1,
+          "delta": 67.1
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 0.0,
+          "grpo_act": 66.0,
+          "delta": 66.0
+        },
+        {
+          "layer": 13,
+          "feature": 955,
+          "base_act": 0.0,
+          "grpo_act": 65.6,
+          "delta": 65.6
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 65.2,
+          "delta": 65.2
+        },
+        {
+          "layer": 20,
+          "feature": 138,
+          "base_act": 0.0,
+          "grpo_act": 64.2,
+          "delta": 64.2
+        },
+        {
+          "layer": 15,
+          "feature": 8266,
+          "base_act": 0.0,
+          "grpo_act": 62.4,
+          "delta": 62.4
+        },
+        {
+          "layer": 13,
+          "feature": 4152,
+          "base_act": 0.0,
+          "grpo_act": 56.6,
+          "delta": 56.6
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 132.5,
+          "grpo_act": 862.0,
+          "delta": 729.5
+        },
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 68.5,
+          "grpo_act": 468.0,
+          "delta": 399.5
+        },
+        {
+          "layer": 23,
+          "feature": 197,
+          "base_act": 267.5,
+          "grpo_act": 489.5,
+          "delta": 222.0
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 89.0,
+          "grpo_act": 309.2,
+          "delta": 220.2
+        },
+        {
+          "layer": 14,
+          "feature": 351,
+          "base_act": 233.2,
+          "grpo_act": 407.0,
+          "delta": 173.8
+        },
+        {
+          "layer": 13,
+          "feature": 1338,
+          "base_act": 72.1,
+          "grpo_act": 191.6,
+          "delta": 119.5
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 69.5,
+          "grpo_act": 161.1,
+          "delta": 91.6
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 16.2,
+          "grpo_act": 90.8,
+          "delta": 74.5
+        },
+        {
+          "layer": 8,
+          "feature": 2358,
+          "base_act": 76.9,
+          "grpo_act": 117.5,
+          "delta": 40.6
+        },
+        {
+          "layer": 12,
+          "feature": 6245,
+          "base_act": 46.0,
+          "grpo_act": 85.5,
+          "delta": 39.5
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 24.6,
+          "grpo_act": 64.0,
+          "delta": 39.4
+        },
+        {
+          "layer": 11,
+          "feature": 721,
+          "base_act": 31.0,
+          "grpo_act": 60.8,
+          "delta": 29.8
+        },
+        {
+          "layer": 13,
+          "feature": 5221,
+          "base_act": 42.2,
+          "grpo_act": 69.0,
+          "delta": 26.8
+        },
+        {
+          "layer": 8,
+          "feature": 241,
+          "base_act": 11.1,
+          "grpo_act": 26.8,
+          "delta": 15.6
+        },
+        {
+          "layer": 11,
+          "feature": 4979,
+          "base_act": 14.2,
+          "grpo_act": 29.8,
+          "delta": 15.5
+        },
+        {
+          "layer": 9,
+          "feature": 81,
+          "base_act": 19.9,
+          "grpo_act": 31.3,
+          "delta": 11.4
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 25,
+          "feature": 216,
+          "base_act": 534.0,
+          "grpo_act": 0.0,
+          "delta": -534.0
+        },
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 473.5,
+          "grpo_act": 0.0,
+          "delta": -473.5
+        },
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 385.2,
+          "grpo_act": 0.0,
+          "delta": -385.2
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 208.0,
+          "grpo_act": 0.0,
+          "delta": -208.0
+        },
+        {
+          "layer": 24,
+          "feature": 1460,
+          "base_act": 198.9,
+          "grpo_act": 0.0,
+          "delta": -198.9
+        },
+        {
+          "layer": 19,
+          "feature": 784,
+          "base_act": 180.0,
+          "grpo_act": 0.0,
+          "delta": -180.0
+        },
+        {
+          "layer": 14,
+          "feature": 716,
+          "base_act": 244.8,
+          "grpo_act": 81.2,
+          "delta": -163.5
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 168.8,
+          "grpo_act": 15.2,
+          "delta": -153.5
+        },
+        {
+          "layer": 9,
+          "feature": 134,
+          "base_act": 141.1,
+          "grpo_act": 0.0,
+          "delta": -141.1
+        },
+        {
+          "layer": 13,
+          "feature": 615,
+          "base_act": 164.0,
+          "grpo_act": 27.6,
+          "delta": -136.4
+        },
+        {
+          "layer": 24,
+          "feature": 4655,
+          "base_act": 128.9,
+          "grpo_act": 0.0,
+          "delta": -128.9
+        },
+        {
+          "layer": 14,
+          "feature": 429,
+          "base_act": 167.8,
+          "grpo_act": 43.4,
+          "delta": -124.4
+        },
+        {
+          "layer": 15,
+          "feature": 2158,
+          "base_act": 119.0,
+          "grpo_act": 0.0,
+          "delta": -119.0
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 149.5,
+          "grpo_act": 35.5,
+          "delta": -114.0
+        },
+        {
+          "layer": 13,
+          "feature": 3398,
+          "base_act": 112.5,
+          "grpo_act": 0.0,
+          "delta": -112.5
+        },
+        {
+          "layer": 14,
+          "feature": 8428,
+          "base_act": 204.8,
+          "grpo_act": 93.4,
+          "delta": -111.4
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 111.2,
+          "grpo_act": 0.0,
+          "delta": -111.2
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 109.2,
+          "grpo_act": 0.0,
+          "delta": -109.2
+        },
+        {
+          "layer": 14,
+          "feature": 88,
+          "base_act": 107.6,
+          "grpo_act": 0.0,
+          "delta": -107.6
+        },
+        {
+          "layer": 16,
+          "feature": 122,
+          "base_act": 106.0,
+          "grpo_act": 0.0,
+          "delta": -106.0
+        }
+      ],
+      "total_new": 37,
+      "total_amplified": 16,
+      "total_suppressed": 69
+    },
+    {
+      "prompt_idx": 7,
+      "n_tokens": 151,
+      "question": "In the mammalian Kozak consensus sequence (5'-GCCRCCATGG-3'), which two nucleotide positions relativ",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 18,
+          "feature": 1023,
+          "base_act": 0.0,
+          "grpo_act": 215.0,
+          "delta": 215.0
+        },
+        {
+          "layer": 7,
+          "feature": 206,
+          "base_act": 0.0,
+          "grpo_act": 159.2,
+          "delta": 159.2
+        },
+        {
+          "layer": 16,
+          "feature": 5206,
+          "base_act": 0.0,
+          "grpo_act": 153.0,
+          "delta": 153.0
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 142.0,
+          "delta": 142.0
+        },
+        {
+          "layer": 16,
+          "feature": 391,
+          "base_act": 0.0,
+          "grpo_act": 107.0,
+          "delta": 107.0
+        },
+        {
+          "layer": 19,
+          "feature": 3863,
+          "base_act": 0.0,
+          "grpo_act": 106.5,
+          "delta": 106.5
+        },
+        {
+          "layer": 18,
+          "feature": 2458,
+          "base_act": 0.0,
+          "grpo_act": 105.5,
+          "delta": 105.5
+        },
+        {
+          "layer": 24,
+          "feature": 2549,
+          "base_act": 0.0,
+          "grpo_act": 101.8,
+          "delta": 101.8
+        },
+        {
+          "layer": 15,
+          "feature": 583,
+          "base_act": 0.0,
+          "grpo_act": 98.5,
+          "delta": 98.5
+        },
+        {
+          "layer": 20,
+          "feature": 728,
+          "base_act": 0.0,
+          "grpo_act": 85.0,
+          "delta": 85.0
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 0.0,
+          "grpo_act": 72.8,
+          "delta": 72.8
+        },
+        {
+          "layer": 14,
+          "feature": 2491,
+          "base_act": 0.0,
+          "grpo_act": 67.2,
+          "delta": 67.2
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 66.9,
+          "delta": 66.9
+        },
+        {
+          "layer": 14,
+          "feature": 3307,
+          "base_act": 0.0,
+          "grpo_act": 65.5,
+          "delta": 65.5
+        },
+        {
+          "layer": 13,
+          "feature": 247,
+          "base_act": 0.0,
+          "grpo_act": 65.1,
+          "delta": 65.1
+        },
+        {
+          "layer": 19,
+          "feature": 3427,
+          "base_act": 0.0,
+          "grpo_act": 62.8,
+          "delta": 62.8
+        },
+        {
+          "layer": 18,
+          "feature": 605,
+          "base_act": 0.0,
+          "grpo_act": 61.2,
+          "delta": 61.2
+        },
+        {
+          "layer": 14,
+          "feature": 4747,
+          "base_act": 0.0,
+          "grpo_act": 60.6,
+          "delta": 60.6
+        },
+        {
+          "layer": 12,
+          "feature": 4105,
+          "base_act": 0.0,
+          "grpo_act": 57.8,
+          "delta": 57.8
+        },
+        {
+          "layer": 16,
+          "feature": 485,
+          "base_act": 0.0,
+          "grpo_act": 48.5,
+          "delta": 48.5
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 141.5,
+          "grpo_act": 528.0,
+          "delta": 386.5
+        },
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 332.5,
+          "grpo_act": 613.5,
+          "delta": 281.0
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 150.0,
+          "grpo_act": 305.2,
+          "delta": 155.2
+        },
+        {
+          "layer": 23,
+          "feature": 197,
+          "base_act": 268.0,
+          "grpo_act": 407.5,
+          "delta": 139.5
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 75.1,
+          "grpo_act": 177.4,
+          "delta": 102.2
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 31.2,
+          "grpo_act": 93.8,
+          "delta": 62.5
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 79.4,
+          "grpo_act": 136.9,
+          "delta": 57.5
+        },
+        {
+          "layer": 9,
+          "feature": 316,
+          "base_act": 71.5,
+          "grpo_act": 111.2,
+          "delta": 39.8
+        },
+        {
+          "layer": 8,
+          "feature": 2358,
+          "base_act": 74.6,
+          "grpo_act": 113.8,
+          "delta": 39.1
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 75.2,
+          "grpo_act": 114.1,
+          "delta": 38.9
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 64.2,
+          "grpo_act": 101.1,
+          "delta": 36.9
+        },
+        {
+          "layer": 13,
+          "feature": 5221,
+          "base_act": 28.5,
+          "grpo_act": 63.8,
+          "delta": 35.2
+        },
+        {
+          "layer": 12,
+          "feature": 713,
+          "base_act": 35.0,
+          "grpo_act": 69.6,
+          "delta": 34.6
+        },
+        {
+          "layer": 10,
+          "feature": 3655,
+          "base_act": 32.8,
+          "grpo_act": 59.0,
+          "delta": 26.2
+        },
+        {
+          "layer": 6,
+          "feature": 1,
+          "base_act": 17.3,
+          "grpo_act": 35.5,
+          "delta": 18.2
+        },
+        {
+          "layer": 7,
+          "feature": 300,
+          "base_act": 14.8,
+          "grpo_act": 29.1,
+          "delta": 14.2
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 400.0,
+          "grpo_act": 0.0,
+          "delta": -400.0
+        },
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 270.2,
+          "grpo_act": 0.0,
+          "delta": -270.2
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 249.0,
+          "grpo_act": 0.0,
+          "delta": -249.0
+        },
+        {
+          "layer": 24,
+          "feature": 1460,
+          "base_act": 204.6,
+          "grpo_act": 0.0,
+          "delta": -204.6
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 116.8,
+          "grpo_act": 0.0,
+          "delta": -116.8
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 131.2,
+          "grpo_act": 15.8,
+          "delta": -115.5
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 114.5,
+          "grpo_act": 0.0,
+          "delta": -114.5
+        },
+        {
+          "layer": 17,
+          "feature": 2000,
+          "base_act": 113.1,
+          "grpo_act": 0.0,
+          "delta": -113.1
+        },
+        {
+          "layer": 18,
+          "feature": 1007,
+          "base_act": 89.1,
+          "grpo_act": 0.0,
+          "delta": -89.1
+        },
+        {
+          "layer": 24,
+          "feature": 4655,
+          "base_act": 86.6,
+          "grpo_act": 0.0,
+          "delta": -86.6
+        },
+        {
+          "layer": 14,
+          "feature": 558,
+          "base_act": 109.2,
+          "grpo_act": 28.0,
+          "delta": -81.2
+        },
+        {
+          "layer": 13,
+          "feature": 615,
+          "base_act": 130.0,
+          "grpo_act": 49.2,
+          "delta": -80.8
+        },
+        {
+          "layer": 14,
+          "feature": 429,
+          "base_act": 122.2,
+          "grpo_act": 42.9,
+          "delta": -79.4
+        },
+        {
+          "layer": 17,
+          "feature": 5488,
+          "base_act": 76.8,
+          "grpo_act": 0.0,
+          "delta": -76.8
+        },
+        {
+          "layer": 11,
+          "feature": 118,
+          "base_act": 75.2,
+          "grpo_act": 0.0,
+          "delta": -75.2
+        },
+        {
+          "layer": 13,
+          "feature": 3398,
+          "base_act": 124.5,
+          "grpo_act": 52.2,
+          "delta": -72.2
+        },
+        {
+          "layer": 11,
+          "feature": 360,
+          "base_act": 69.4,
+          "grpo_act": 0.0,
+          "delta": -69.4
+        },
+        {
+          "layer": 15,
+          "feature": 1182,
+          "base_act": 67.4,
+          "grpo_act": 0.0,
+          "delta": -67.4
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 107.6,
+          "grpo_act": 43.8,
+          "delta": -63.9
+        },
+        {
+          "layer": 14,
+          "feature": 88,
+          "base_act": 59.6,
+          "grpo_act": 0.0,
+          "delta": -59.6
+        }
+      ],
+      "total_new": 51,
+      "total_amplified": 16,
+      "total_suppressed": 50
+    },
+    {
+      "prompt_idx": 8,
+      "n_tokens": 168,
+      "question": "On which specific date was the Treaty of Butre signed between the Dutch West India Company and the A",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 0.0,
+          "grpo_act": 307.5,
+          "delta": 307.5
+        },
+        {
+          "layer": 7,
+          "feature": 206,
+          "base_act": 0.0,
+          "grpo_act": 166.1,
+          "delta": 166.1
+        },
+        {
+          "layer": 16,
+          "feature": 9419,
+          "base_act": 0.0,
+          "grpo_act": 151.5,
+          "delta": 151.5
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 0.0,
+          "grpo_act": 147.6,
+          "delta": 147.6
+        },
+        {
+          "layer": 18,
+          "feature": 605,
+          "base_act": 0.0,
+          "grpo_act": 108.2,
+          "delta": 108.2
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 0.0,
+          "grpo_act": 106.2,
+          "delta": 106.2
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 0.0,
+          "grpo_act": 97.2,
+          "delta": 97.2
+        },
+        {
+          "layer": 13,
+          "feature": 5221,
+          "base_act": 0.0,
+          "grpo_act": 84.5,
+          "delta": 84.5
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 71.8,
+          "delta": 71.8
+        },
+        {
+          "layer": 7,
+          "feature": 7972,
+          "base_act": 0.0,
+          "grpo_act": 66.4,
+          "delta": 66.4
+        },
+        {
+          "layer": 14,
+          "feature": 2718,
+          "base_act": 0.0,
+          "grpo_act": 62.2,
+          "delta": 62.2
+        },
+        {
+          "layer": 16,
+          "feature": 391,
+          "base_act": 0.0,
+          "grpo_act": 60.2,
+          "delta": 60.2
+        },
+        {
+          "layer": 9,
+          "feature": 316,
+          "base_act": 0.0,
+          "grpo_act": 55.2,
+          "delta": 55.2
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 49.9,
+          "delta": 49.9
+        },
+        {
+          "layer": 14,
+          "feature": 3307,
+          "base_act": 0.0,
+          "grpo_act": 48.0,
+          "delta": 48.0
+        },
+        {
+          "layer": 14,
+          "feature": 2491,
+          "base_act": 0.0,
+          "grpo_act": 46.2,
+          "delta": 46.2
+        },
+        {
+          "layer": 13,
+          "feature": 298,
+          "base_act": 0.0,
+          "grpo_act": 45.5,
+          "delta": 45.5
+        },
+        {
+          "layer": 15,
+          "feature": 219,
+          "base_act": 0.0,
+          "grpo_act": 38.5,
+          "delta": 38.5
+        },
+        {
+          "layer": 9,
+          "feature": 28,
+          "base_act": 0.0,
+          "grpo_act": 37.8,
+          "delta": 37.8
+        },
+        {
+          "layer": 12,
+          "feature": 185,
+          "base_act": 0.0,
+          "grpo_act": 35.4,
+          "delta": 35.4
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 173.8,
+          "grpo_act": 562.5,
+          "delta": 388.8
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 76.2,
+          "grpo_act": 264.8,
+          "delta": 188.5
+        },
+        {
+          "layer": 23,
+          "feature": 197,
+          "base_act": 213.0,
+          "grpo_act": 399.5,
+          "delta": 186.5
+        },
+        {
+          "layer": 14,
+          "feature": 351,
+          "base_act": 215.0,
+          "grpo_act": 323.2,
+          "delta": 108.2
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 43.4,
+          "grpo_act": 101.1,
+          "delta": 57.8
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 28.1,
+          "grpo_act": 77.0,
+          "delta": 48.9
+        },
+        {
+          "layer": 13,
+          "feature": 1338,
+          "base_act": 65.4,
+          "grpo_act": 113.4,
+          "delta": 48.0
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 36.3,
+          "grpo_act": 76.4,
+          "delta": 40.1
+        },
+        {
+          "layer": 8,
+          "feature": 2358,
+          "base_act": 76.1,
+          "grpo_act": 114.2,
+          "delta": 38.1
+        },
+        {
+          "layer": 11,
+          "feature": 619,
+          "base_act": 33.1,
+          "grpo_act": 68.8,
+          "delta": 35.6
+        },
+        {
+          "layer": 10,
+          "feature": 3655,
+          "base_act": 54.1,
+          "grpo_act": 88.0,
+          "delta": 33.9
+        },
+        {
+          "layer": 6,
+          "feature": 1,
+          "base_act": 29.0,
+          "grpo_act": 49.0,
+          "delta": 20.1
+        },
+        {
+          "layer": 9,
+          "feature": 81,
+          "base_act": 26.8,
+          "grpo_act": 46.1,
+          "delta": 19.4
+        },
+        {
+          "layer": 11,
+          "feature": 7462,
+          "base_act": 27.9,
+          "grpo_act": 46.5,
+          "delta": 18.6
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 25,
+          "feature": 216,
+          "base_act": 723.0,
+          "grpo_act": 301.5,
+          "delta": -421.5
+        },
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 469.5,
+          "grpo_act": 95.0,
+          "delta": -374.5
+        },
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 342.2,
+          "grpo_act": 0.0,
+          "delta": -342.2
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 275.5,
+          "grpo_act": 0.0,
+          "delta": -275.5
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 163.0,
+          "grpo_act": 0.0,
+          "delta": -163.0
+        },
+        {
+          "layer": 9,
+          "feature": 134,
+          "base_act": 132.1,
+          "grpo_act": 0.0,
+          "delta": -132.1
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 115.8,
+          "grpo_act": 0.0,
+          "delta": -115.8
+        },
+        {
+          "layer": 11,
+          "feature": 118,
+          "base_act": 113.8,
+          "grpo_act": 0.0,
+          "delta": -113.8
+        },
+        {
+          "layer": 13,
+          "feature": 615,
+          "base_act": 156.4,
+          "grpo_act": 43.9,
+          "delta": -112.4
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 153.2,
+          "grpo_act": 43.8,
+          "delta": -109.5
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 154.2,
+          "grpo_act": 57.4,
+          "delta": -96.9
+        },
+        {
+          "layer": 17,
+          "feature": 5488,
+          "base_act": 92.8,
+          "grpo_act": 0.0,
+          "delta": -92.8
+        },
+        {
+          "layer": 17,
+          "feature": 2000,
+          "base_act": 92.6,
+          "grpo_act": 0.0,
+          "delta": -92.6
+        },
+        {
+          "layer": 14,
+          "feature": 88,
+          "base_act": 88.6,
+          "grpo_act": 0.0,
+          "delta": -88.6
+        },
+        {
+          "layer": 13,
+          "feature": 2706,
+          "base_act": 87.2,
+          "grpo_act": 0.0,
+          "delta": -87.2
+        },
+        {
+          "layer": 10,
+          "feature": 5,
+          "base_act": 158.8,
+          "grpo_act": 75.5,
+          "delta": -83.2
+        },
+        {
+          "layer": 20,
+          "feature": 199,
+          "base_act": 78.0,
+          "grpo_act": 0.0,
+          "delta": -78.0
+        },
+        {
+          "layer": 14,
+          "feature": 429,
+          "base_act": 134.0,
+          "grpo_act": 58.0,
+          "delta": -76.0
+        },
+        {
+          "layer": 13,
+          "feature": 3398,
+          "base_act": 135.5,
+          "grpo_act": 60.5,
+          "delta": -75.0
+        },
+        {
+          "layer": 24,
+          "feature": 341,
+          "base_act": 71.4,
+          "grpo_act": 0.0,
+          "delta": -71.4
+        }
+      ],
+      "total_new": 40,
+      "total_amplified": 14,
+      "total_suppressed": 64
+    },
+    {
+      "prompt_idx": 9,
+      "n_tokens": 169,
+      "question": "On which specific date was the Sino-Portuguese Treaty of Peking (also known as the Sino-Portuguese T",
+      "has_hint": true,
+      "new_features": [
+        {
+          "layer": 18,
+          "feature": 1023,
+          "base_act": 0.0,
+          "grpo_act": 263.5,
+          "delta": 263.5
+        },
+        {
+          "layer": 7,
+          "feature": 206,
+          "base_act": 0.0,
+          "grpo_act": 163.4,
+          "delta": 163.4
+        },
+        {
+          "layer": 18,
+          "feature": 2458,
+          "base_act": 0.0,
+          "grpo_act": 131.5,
+          "delta": 131.5
+        },
+        {
+          "layer": 15,
+          "feature": 478,
+          "base_act": 0.0,
+          "grpo_act": 116.7,
+          "delta": 116.7
+        },
+        {
+          "layer": 16,
+          "feature": 391,
+          "base_act": 0.0,
+          "grpo_act": 112.8,
+          "delta": 112.8
+        },
+        {
+          "layer": 14,
+          "feature": 2491,
+          "base_act": 0.0,
+          "grpo_act": 109.5,
+          "delta": 109.5
+        },
+        {
+          "layer": 16,
+          "feature": 9419,
+          "base_act": 0.0,
+          "grpo_act": 104.5,
+          "delta": 104.5
+        },
+        {
+          "layer": 13,
+          "feature": 9006,
+          "base_act": 0.0,
+          "grpo_act": 73.8,
+          "delta": 73.8
+        },
+        {
+          "layer": 7,
+          "feature": 7972,
+          "base_act": 0.0,
+          "grpo_act": 71.4,
+          "delta": 71.4
+        },
+        {
+          "layer": 14,
+          "feature": 509,
+          "base_act": 0.0,
+          "grpo_act": 71.4,
+          "delta": 71.4
+        },
+        {
+          "layer": 13,
+          "feature": 955,
+          "base_act": 0.0,
+          "grpo_act": 64.4,
+          "delta": 64.4
+        },
+        {
+          "layer": 20,
+          "feature": 728,
+          "base_act": 0.0,
+          "grpo_act": 62.5,
+          "delta": 62.5
+        },
+        {
+          "layer": 14,
+          "feature": 4747,
+          "base_act": 0.0,
+          "grpo_act": 57.1,
+          "delta": 57.1
+        },
+        {
+          "layer": 14,
+          "feature": 2718,
+          "base_act": 0.0,
+          "grpo_act": 57.0,
+          "delta": 57.0
+        },
+        {
+          "layer": 15,
+          "feature": 8266,
+          "base_act": 0.0,
+          "grpo_act": 56.4,
+          "delta": 56.4
+        },
+        {
+          "layer": 12,
+          "feature": 317,
+          "base_act": 0.0,
+          "grpo_act": 55.9,
+          "delta": 55.9
+        },
+        {
+          "layer": 14,
+          "feature": 1619,
+          "base_act": 0.0,
+          "grpo_act": 53.5,
+          "delta": 53.5
+        },
+        {
+          "layer": 13,
+          "feature": 5221,
+          "base_act": 0.0,
+          "grpo_act": 53.0,
+          "delta": 53.0
+        },
+        {
+          "layer": 13,
+          "feature": 7489,
+          "base_act": 0.0,
+          "grpo_act": 50.1,
+          "delta": 50.1
+        },
+        {
+          "layer": 13,
+          "feature": 813,
+          "base_act": 0.0,
+          "grpo_act": 48.0,
+          "delta": 48.0
+        }
+      ],
+      "amplified_features": [
+        {
+          "layer": 16,
+          "feature": 128,
+          "base_act": 223.2,
+          "grpo_act": 758.5,
+          "delta": 535.2
+        },
+        {
+          "layer": 22,
+          "feature": 3128,
+          "base_act": 85.5,
+          "grpo_act": 426.5,
+          "delta": 341.0
+        },
+        {
+          "layer": 23,
+          "feature": 197,
+          "base_act": 186.0,
+          "grpo_act": 452.5,
+          "delta": 266.5
+        },
+        {
+          "layer": 13,
+          "feature": 4815,
+          "base_act": 154.2,
+          "grpo_act": 346.2,
+          "delta": 192.0
+        },
+        {
+          "layer": 14,
+          "feature": 9565,
+          "base_act": 46.8,
+          "grpo_act": 220.4,
+          "delta": 173.6
+        },
+        {
+          "layer": 14,
+          "feature": 351,
+          "base_act": 265.5,
+          "grpo_act": 401.5,
+          "delta": 136.0
+        },
+        {
+          "layer": 10,
+          "feature": 82,
+          "base_act": 24.8,
+          "grpo_act": 109.8,
+          "delta": 85.0
+        },
+        {
+          "layer": 13,
+          "feature": 1338,
+          "base_act": 100.4,
+          "grpo_act": 182.4,
+          "delta": 82.0
+        },
+        {
+          "layer": 13,
+          "feature": 2340,
+          "base_act": 62.9,
+          "grpo_act": 143.4,
+          "delta": 80.5
+        },
+        {
+          "layer": 13,
+          "feature": 331,
+          "base_act": 33.9,
+          "grpo_act": 83.1,
+          "delta": 49.2
+        },
+        {
+          "layer": 14,
+          "feature": 282,
+          "base_act": 12.6,
+          "grpo_act": 59.0,
+          "delta": 46.4
+        },
+        {
+          "layer": 9,
+          "feature": 316,
+          "base_act": 23.5,
+          "grpo_act": 67.0,
+          "delta": 43.5
+        },
+        {
+          "layer": 11,
+          "feature": 619,
+          "base_act": 41.7,
+          "grpo_act": 75.1,
+          "delta": 33.4
+        },
+        {
+          "layer": 11,
+          "feature": 721,
+          "base_act": 38.7,
+          "grpo_act": 64.3,
+          "delta": 25.6
+        },
+        {
+          "layer": 6,
+          "feature": 1,
+          "base_act": 33.0,
+          "grpo_act": 51.1,
+          "delta": 18.1
+        },
+        {
+          "layer": 6,
+          "feature": 468,
+          "base_act": 13.7,
+          "grpo_act": 29.2,
+          "delta": 15.5
+        }
+      ],
+      "suppressed_features": [
+        {
+          "layer": 25,
+          "feature": 216,
+          "base_act": 615.0,
+          "grpo_act": 0.0,
+          "delta": -615.0
+        },
+        {
+          "layer": 17,
+          "feature": 76,
+          "base_act": 490.5,
+          "grpo_act": 92.5,
+          "delta": -398.0
+        },
+        {
+          "layer": 17,
+          "feature": 7731,
+          "base_act": 362.2,
+          "grpo_act": 0.0,
+          "delta": -362.2
+        },
+        {
+          "layer": 17,
+          "feature": 1269,
+          "base_act": 285.5,
+          "grpo_act": 0.0,
+          "delta": -285.5
+        },
+        {
+          "layer": 24,
+          "feature": 1460,
+          "base_act": 174.9,
+          "grpo_act": 0.0,
+          "delta": -174.9
+        },
+        {
+          "layer": 17,
+          "feature": 3345,
+          "base_act": 169.8,
+          "grpo_act": 0.0,
+          "delta": -169.8
+        },
+        {
+          "layer": 9,
+          "feature": 134,
+          "base_act": 137.2,
+          "grpo_act": 0.0,
+          "delta": -137.2
+        },
+        {
+          "layer": 13,
+          "feature": 615,
+          "base_act": 129.8,
+          "grpo_act": 0.0,
+          "delta": -129.8
+        },
+        {
+          "layer": 13,
+          "feature": 99,
+          "base_act": 125.2,
+          "grpo_act": 0.0,
+          "delta": -125.2
+        },
+        {
+          "layer": 10,
+          "feature": 9703,
+          "base_act": 154.8,
+          "grpo_act": 38.5,
+          "delta": -116.2
+        },
+        {
+          "layer": 11,
+          "feature": 1305,
+          "base_act": 109.5,
+          "grpo_act": 0.0,
+          "delta": -109.5
+        },
+        {
+          "layer": 17,
+          "feature": 5488,
+          "base_act": 101.0,
+          "grpo_act": 0.0,
+          "delta": -101.0
+        },
+        {
+          "layer": 11,
+          "feature": 118,
+          "base_act": 95.6,
+          "grpo_act": 0.0,
+          "delta": -95.6
+        },
+        {
+          "layer": 20,
+          "feature": 199,
+          "base_act": 95.2,
+          "grpo_act": 0.0,
+          "delta": -95.2
+        },
+        {
+          "layer": 19,
+          "feature": 784,
+          "base_act": 94.6,
+          "grpo_act": 0.0,
+          "delta": -94.6
+        },
+        {
+          "layer": 14,
+          "feature": 429,
+          "base_act": 134.8,
+          "grpo_act": 40.6,
+          "delta": -94.1
+        },
+        {
+          "layer": 17,
+          "feature": 5200,
+          "base_act": 93.4,
+          "grpo_act": 0.0,
+          "delta": -93.4
+        },
+        {
+          "layer": 11,
+          "feature": 360,
+          "base_act": 88.1,
+          "grpo_act": 0.0,
+          "delta": -88.1
+        },
+        {
+          "layer": 17,
+          "feature": 2000,
+          "base_act": 86.4,
+          "grpo_act": 0.0,
+          "delta": -86.4
+        },
+        {
+          "layer": 13,
+          "feature": 3398,
+          "base_act": 119.2,
+          "grpo_act": 40.8,
+          "delta": -78.5
+        }
+      ],
+      "total_new": 44,
+      "total_amplified": 16,
+      "total_suppressed": 54
+    }
+  ],
+  "consistent_new_features": [
+    {
+      "layer": 15,
+      "feature": 478,
+      "n_prompts": 10
+    },
+    {
+      "layer": 12,
+      "feature": 317,
+      "n_prompts": 10
+    },
+    {
+      "layer": 14,
+      "feature": 2491,
+      "n_prompts": 9
+    },
+    {
+      "layer": 16,
+      "feature": 391,
+      "n_prompts": 9
+    },
+    {
+      "layer": 7,
+      "feature": 206,
+      "n_prompts": 7
+    },
+    {
+      "layer": 16,
+      "feature": 9419,
+      "n_prompts": 7
+    },
+    {
+      "layer": 18,
+      "feature": 1023,
+      "n_prompts": 7
+    },
+    {
+      "layer": 14,
+      "feature": 509,
+      "n_prompts": 7
+    },
+    {
+      "layer": 13,
+      "feature": 7489,
+      "n_prompts": 6
+    },
+    {
+      "layer": 13,
+      "feature": 813,
+      "n_prompts": 6
+    },
+    {
+      "layer": 18,
+      "feature": 2458,
+      "n_prompts": 6
+    },
+    {
+      "layer": 14,
+      "feature": 2718,
+      "n_prompts": 5
+    },
+    {
+      "layer": 13,
+      "feature": 247,
+      "n_prompts": 5
+    },
+    {
+      "layer": 13,
+      "feature": 955,
+      "n_prompts": 5
+    },
+    {
+      "layer": 16,
+      "feature": 5206,
+      "n_prompts": 5
+    },
+    {
+      "layer": 19,
+      "feature": 3863,
+      "n_prompts": 5
+    },
+    {
+      "layer": 15,
+      "feature": 8266,
+      "n_prompts": 5
+    },
+    {
+      "layer": 22,
+      "feature": 3128,
+      "n_prompts": 4
+    },
+    {
+      "layer": 7,
+      "feature": 7972,
+      "n_prompts": 4
+    },
+    {
+      "layer": 14,
+      "feature": 9565,
+      "n_prompts": 4
+    },
+    {
+      "layer": 20,
+      "feature": 728,
+      "n_prompts": 4
+    },
+    {
+      "layer": 15,
+      "feature": 219,
+      "n_prompts": 3
+    },
+    {
+      "layer": 13,
+      "feature": 298,
+      "n_prompts": 3
+    },
+    {
+      "layer": 12,
+      "feature": 4105,
+      "n_prompts": 3
+    },
+    {
+      "layer": 18,
+      "feature": 605,
+      "n_prompts": 3
+    },
+    {
+      "layer": 20,
+      "feature": 138,
+      "n_prompts": 3
+    },
+    {
+      "layer": 14,
+      "feature": 1619,
+      "n_prompts": 3
+    },
+    {
+      "layer": 13,
+      "feature": 5221,
+      "n_prompts": 3
+    },
+    {
+      "layer": 14,
+      "feature": 3307,
+      "n_prompts": 3
+    },
+    {
+      "layer": 10,
+      "feature": 82,
+      "n_prompts": 3
+    }
+  ],
+  "_metadata": {
+    "saved_at": "2026-05-09T08:16:01.782392",
+    "gpu": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+  }
+}
